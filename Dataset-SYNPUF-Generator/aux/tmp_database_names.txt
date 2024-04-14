@@ -1,0 +1,1775 @@
+MEDIBASE;Medical Database for Health Information Exchange 1
+BIOMEDNET;Biomedical Network Database 2
+GENOMEX;Genomic Data Exchange 3
+DRUGINFO;Drug Information Database 4
+CLINICON;Clinical Research and Outcomes Database 5
+LABDATA;LABORATORY DATA MANAGEMENT SYSTEM 6
+EPIDATA;Epidemiological Data Repository 7
+PUBMEDX;Publication Indexing and Search System 8
+HEALTHTRACK;Healthcare Tracking and Analytics Database 9
+CIDB;Cancer Information Database 10
+MHAD;Mental Health Archives & Databases 11
+GIHD;Global Infectious Disease Hub 12
+NDAR;Neurological Disorders Archive Repository 13
+PCDS;Population Cardiovascular Data System 14
+EMDC;Environmental Medicine Database Collection 15
+LRHAD;Longitudinal Research Health Archives & Databases 16
+IMMUNE;Immunology Medical Metadata Unified Network Exchange 17
+GENDAT;Genetic Disease Analysis and Tracking 18
+PATHDB;Pathogenesis Investigation Database 19
+CARDS;Cardiovascular Disease Research Database System 20
+GHADS;Global Health Analytics Data Storage 21
+NIDB;Neurological Information Database 22
+OCDB;Oncology Clinical Database 23
+PEDB;Pediatric Electronic Database 24
+RDAB;Rare Diseases Archive Bank 25
+SADS;Substance Abuse Data Storage 26
+TCDS;Transplantation Case Document System 27
+VACCDB;Vaccine Administration and Clinical Data Base 28
+WIDB;Women's Infectious Disease Database 29
+MEDIAN;Medical Data Integration and Analysis Network 30
+CARES;Comprehensive Archives of Rare Endocrine Syndromes 31
+NEUROSPHERE;Neurological Disorder Database and Information Repository 32
+CARDIOBASE;Cardiovascular Health Data Archive System 33
+PSYCHDATA;Psychological Research and Treatment Outcomes Database 34
+INFECTIOME;Infectious Disease Epidemiology Monitoring Environment 35
+CARDS;Cancer Analysis and Research Database System 35
+MINDS;Medical Information Network for Disease Surveillance 36
+GHANA;Global Healthcare Analytics Network Archive 37
+IDAPS;International Drug Administration Platform Services 38
+EMBRACE;Epidemiological Modeling and Biostatistics Research Collaborative Environment 39
+PATHWAYS;Precision Therapeutics Analysis Hub for Worldwide Evidence Synthesis 40
+HARMONY;Healthcare Analytics Resource Management Organization Network Yields 41
+LIFELINE;Life Science Information Framework and Electronic Library Integration Exchange 42
+CAREPATH;Clinical Assessment Research Evaluation Program Analysis Toolkit Hub 43
+BIOSYNTH;Biomedical Informatics Synthesis Network for Translational Health 44
+MCDA;Medical Case Database 45
+CADB;Cardiovascular Disease Data Bank 46
+GNDB;Global Neurological Disorder Database 47
+IDDH;International Diabetes and Dietary Habits Hub 48
+PDDT;Pediatric Developmental Disorders Tracker 49
+HCDA;Health Care Delivery Analytics Archive 50
+CODB;Cancer Outcomes Data Bank 51
+GADR;Global Allergic Disease Registry 52
+MHDB;Mental Health Database 53
+RDDB;Reproductive Disorder Diagnostic Bank 54
+CARA;Cancer Archives Repository and Analysis 55
+MEDIAN;Medical Epidemiological Data Integration and Networking 55
+GENOMEX;Genomic Expression Database for Examination 55
+PATHOS;Pathology Histopathology Online System 56
+NEURONET;Neurological Research Network Exchange and Tracker 57
+PHARMAID;Pharmaceutical Assessment Repository for Medical Innovation & Development 58
+IMMUNOLOG;Immunological Database of Genetic Variants and Outcomes 59
+CARDIA;Cardiovascular Risk Analysis Interface Archive 60
+PSYCHEX;Psychological Health Examination System 61
+MICROBIOMES;Microbial Biodiversity Online Monitoring, Evaluation & Surveillance 62
+MEDIAN;Medical Data Integration and Analysis Network 62
+BIOMEDNET;Biomedical Knowledge Exchange Network 62
+CLINICON;Clinical Outcomes Research Repository 62
+HCDA;Health Care Data Archive 62
+MEDB;Medical Evidence Database 63
+GHID;Global Health Information Depository 64
+LMDS;Life Science Data System 65
+CNRD;Clinical Neuroscience Research Database 66
+PADI;Pharmaceutical Analysis and Drug Interaction Index 67
+BIOMED;Biomedical Knowledgebase 68
+HCID;Health Care Information Directory 69
+MEDL;Medical Literature Archive 70
+GHRD;Global Health Research Database 71
+PCDA;Population Cardiovascular Disease Archives 72
+CNAD;Cancer Neuroscience Advanced Database 73
+MHID;Mental Health Information Depository 74
+GNAI;Global Nutrition and Allergy Index 75
+IGDB;International Genomic Data Bank 76
+ODAR;Orthopedic Disease Archive Repository 77
+EMDS;Endocrine Metabolic Database System 78
+RADA;Respiratory Ailment Diagnostic Archives 79
+NADI;Neurological Advancements and Disorder Index 80
+IHID;Infectious Health Information Depository 81
+HCDA;Health Care Data Archives 81
+MEDB;Medical Electronic Database Bank 81
+GHAD;Global Healthcare Analytics Database 82
+LIMDB;Life Sciences Information Management Database 83
+PMDS;Patient Medical Data System 84
+AIDB;Advanced Infectious Disease Biobank 85
+CNDB;Clinical Neuroscience Database 86
+GHAD;Global Healthcare Analytics Database 86
+MEDIQ;Medical Intelligence Query 87
+PMIMS;Patient Medical Information Management System 88
+MEDIAN;Medical Data Integration and Analysis Network 88
+CAREDB;Comprehensive Advanced Research Electronic Database 89
+HEALTHY;Healthcare Evidence Archive for Learning, Teaching, and Healing Yourself 90
+LIFEBASE;Life Sciences Information Framework Enhanced by Artificial Intelligence Solutions 91
+MEDICUS;Medical Data Collaboration Unified System 92
+HELIOS;Holistic Electronic Library of Integrated Omics Studies 93
+PATHWAYS;Precision Analysis and Therapy Hub for Wellness, Advancement, and You in Science 93
+HEALTHNET;Healthcare Evidence Archive Linked to Networks Enhancing Treatments 94
+GENOMEX;Genomic Exploration and Exchange for Medicine and Experimental Science 94
+MAD;Medical Archives Database 95
+CIDB;Cancer Information and Data Bank 95
+GHDB;Global Healthcare Databank 96
+PNAD;Pediatric Neurology Archive Database 97
+ICD;Infectious Disease Centralized Database 98
+HRD;Health Records Depository 99
+BMD;BioMedical Data Bank 100
+GHDB;Global Healthcare Databank 100
+CNAD;Cardiovascular Neurology Archive Database 100
+NIDD;NeuroImaging and Diagnostic Data Depository 101
+MEDIAN;Medical Epidemiology Database for Infectious and Noncommunicable Diseases 101
+GENOMES;Genetic Information Management System for Epigenetics, Sequencing, and Syndromes 102
+CARDIOX;Cardiovascular Health Data Registry 103
+NEUROPATH;Neurological Pathology Database 104
+ONCOLOGY;Oncological Outcomes Network and Tracking Hub 105
+IMMUNO;Immunological Research Information Management System 106
+PSYCHDAT;Psychological Disorders Data Archive 107
+PHARMACO;Pharmaceutical Clinical Trials Database 108
+RADIOLOGY;Radiology Imaging and Medical Records Library 109
+ALLERGYNET;Allergy Information Network and Tracking System 110
+MIDA;Medical Information Database Archive 111
+CADB;Cardiovascular Analysis and Data Bank 111
+GHDB;Global Healthcare Databank 111
+PANED;Patient Anonymized Networked Electronic Database 112
+BIODAT;Biological Data Assessment and Tracking 113
+MEDSIS;Medical Epidemiology Data Surveillance System 114
+DIGIDOC;Digital Documentation of Health Information Center 115
+HELIX;Healthcare Evidence Library for Innovative eXchange 116
+PHARMABANK;Pharmaceutical Research and Analysis Knowledge Bank 117
+LIFETRACK;Longitudinal Integrated File Evaluation Tracking System 118
+CARA;Cancer Analysis Repository Archive 118
+NEDB;Neurological and Endocrine Disease Database 119
+IMMUNE;Immunological Medicine Medical Education Network 119
+GDA;Global Diabetes Archive 120
+HERA;Heart & Respiratory Association Data Bank 121
+MORPH;Musculoskeletal Orthopedic Research and Patient Health Database 122
+PSYCHE;Psychiatric Care, History, Education Network 123
+VISIONS;Visual Impairment Study Information System 124
+EPIDEMIC;Epidemiological Disease Monitoring & Infection Control Initiative Collaborative 125
+GENOMEX;Genomic Examination Database for Medical Research and Experimentation 125
+CARMA;Cardiovascular Research Management Archive 126
+MEDIAN;Medical Education Database for Institutional Analysis and Networking 126
+GENOME;Genomic Information Exchange & Organizational Monitoring Environment 127
+PATHWAYS;Patient Health Assessment Tracking Hub: Warehousing, Analyzing, and Yielding Statistics 127
+CARDS;Cancer Archives for Research and Data Sharing 127
+MINDS;Mental Health Information Network Database System 127
+GENOME;Genomic Evidence Organization Management Environment 127
+HEARTS;Healthcare Electronic Archive Registry Tracking System 128
+PEDIATRICS;Pediatric Epidemiology Data Integration and Translation Center for Studies 129
+EPIDEMIC;Epidemic Prevention Information Database Exchange and Monitoring Initiative Collaborative 129
+VITALS;Vital Signs Tracker, Analyzer, and Reporting System 130
+CARDIOLOGY;Cardiology Analysis Repository Data Integration Organization Library for You 131
+PHARMADATA;Pharmaceutical Healthcare Research Administration Management And Document Access Technology 132
+IMMUNOBASED;ImmunoBiological Assessment and Surveillance Exchange Network 133
+CARDS;Cardiovascular Disease Research Database 133
+CANCER;Comprehensive Analysis of Neoplasia and Cancer Epidemiology Registry 134
+GDA;Global Diabetes Archive 134
+MINDS;Mental Illness Network for Data Sharing 134
+RADAR;Repository for Advanced Drug Discovery Analytics Research 135
+PANDEMIC;Pandemic Analysis and Disease Management Information Center 136
+NEURONET;Neurological Conditions Electronic Repository Organizing Neural Trajectories 136
+IMMUNE;Immunology Medical Matrix for Epidemiological Evidence 136
+OPHTHALMICA;Ophthalmologic Healthcare and Treatment Information Center of America 137
+MEDIQUEST;Medical Inquiry Database for Quality, Education, Science, and Technology 138
+CMDA;Cardiovascular Medicine Database Archives 139
+MHADA;Mental Health Analysis and Data Archive 140
+GIDA;Global Infectious Disease Archive 141
+ODDA;Orthopedic Diagnostics and Data Archive 142
+NPDA;Neurological Patient Data Archive 143
+RMDA;Respiratory Medicine Database Archives 144
+ONDA;Oncology Networking and Data Archive 145
+GHADA;Global Health Analysis and Data Archive 146
+PEDA;Pediatric Emergency Diagnostics and Archive 147
+LRDA;Laboratory Results Database Archives 148
+MIDA;Medical Information Database for Allergies 148
+CARDS;Cardiovascular Research Data System 148
+GHADS;Global Healthcare Analytics and Disease Surveillance 148
+PANDORA;Pediatric And Neonatal Diagnostics Online Repository of Archives 149
+MINDS;Medical Information Network for Depression Studies 149
+GENOMES;Genetic Origins and Mutations Exploration System 149
+INTERVENT;Interventional Therapies Evaluation and Novel Treatment Vault 150
+MEDIATE;Medical Education Data Integration and Analysis Tool for Epidemiology 151
+MEDIBASE;Medical Database System 151
+HEALTHNET;Healthcare Network Information Exchange 151
+BIOMEDX;Biomedical Data Explorer 152
+LIFESCIENCE;Life Sciences Knowledge Base 153
+MEDRESEARCH;Medical Research Collaboration Platform 154
+HEALTHTRACK;Healthcare Analytics and Tracking System 154
+BIOSYS;Biomedical Systems Information Center 155
+CLINICARE;Clinical Care Data Repository 156
+SCIMEDNET;Scientific Medicine Network 157
+MID;Medical Information Database 158
+CADB;Cancer Analysis and Data Bank 158
+GHDB;Global Healthcare Database 158
+PDD;Psychiatric Disorder Database 159
+NRD;Neurological Research Database 160
+IDD;Infectious Disease Database 161
+RMD;Rare Medical Disorders Database 162
+HADB;Health Analytics Data Bank 163
+BIDB;Biomedical Innovation Database 164
+MHDB;Mental Healthcare Database 164
+CADR;Cancer Analysis and Data Repository 165
+NDAR;Neurological Disease Archives Registry 165
+GIDA;Global Infectious Diseases Archive 165
+MHDR;Mental Health Database for Research 166
+HARP;Heart & Arterial Research Portal 167
+GADA;Genetic Anomalies Disease Archive 168
+CARD;Cardiovascular Risk Database 169
+MEDR;Medical Education Resources Database 170
+PANDA;Pediatric and Neonatal Data Archives 171
+MEDIAN;Medical Epidemiology Database for Institutional Analysis and Networking 171
+CARDIA;Cardiovascular Research Information Archive 171
+NEUROCENTRAL;Neurological Centralized Data Repository 172
+PATHOSIS;Pathological Outcomes Systematic Integration Study 173
+GENOMEX;Genomic Expression Exploration Database 173
+ONCOBASE;Oncology Clinical and Research Base 174
+IMMUNOLOGICA;Immunological Information Consolidated Archive 175
+PHARMACOR;Pharmaceutical Correlation Observatory Resource 176
+EPIDEMICS;Epidemiological Data Management Integration Collaborative System 177
+BIOMEDAL;Biomedical Analytics Library 178
+MIDA;Medical Information Database for Allergies 178
+CARDS;Cardiovascular Research Data System 178
+GHAD;Global Health Archive on Diagnostics 178
+PEDAS;Pediatric Epidemiology and Disease Analysis System 179
+MINDS;Medical Information Neuroscience Database Service 179
+OMICA;Oncological Mutation Identification and Classification Archive 180
+PATHOS;Pathogenic Organism Tracking and Health Outcomes System 180
+GENESIS;Genetic Epidemiology Network for Environmental Study Integration System 181
+MEDIAN;Medical Data Integration and Analysis Network 181
+CARDIAC;Cardiovascular Research Information Archive Center 182
+NEUROPATH;Neurological Disorders Pathology Database 182
+PSYCHOLOGICA;Psychological Research Information Clearinghouse and Archive 183
+RESPIRONET;Respiratory Disease Networked Electronic Repository 184
+PEDIATRIX;Pediatric Research and Information Exchange System 185
+AHMD;Advanced Heart Health Database 186
+CNAD;Cancer Neural Analysis Database 186
+GDA;Global Diabetes Archive 186
+IHND;Infectious Human Network Database 187
+MNAD;Medical Nutrition Analysis Database 188
+NHCD;National Health Care Database 189
+PHDD;Public Health Data Depository 190
+RDMD;Reproductive Disease Management Database 191
+SNAD;Stroke Neurological Analysis Database 192
+VHD;Virtual Human Dissection Database 193
+CARA;Cardiovascular Arterial Research Archive 193
+GHRA;Global Health Records Archive 194
+CANA;Cancer Neuroscience Archives 195
+MIDA;Medical Imaging Data Archive 195
+PEDA;Pediatric Endocrinology Database Archive 195
+NRDA;Neurological Research Data Archive 196
+GHRA;Global Health Records Archive 196
+RADA;Radiological Analysis and Diagnostics Archive 196
+MIDA;Medical Imaging Data Archive 196
+PEDA;Pediatric Endocrinology Database Archive 196
+CABD;Cancer Archives and Biomedical Data 197
+MHRD;Mental Health Research Database 198
+GDA;Global Diabetes Archive 198
+ICDM;International Cardiometabolic Disease Monitor 199
+NBID;Neurological Brain Imaging Dataset 200
+PADS;Pediatric Allergy and Dermatology Study 201
+EHRD;Environmental Health Research Database 202
+GIMS;Global Infectious Microbe Surveillance 203
+OMDB;Orthopedic Medical Data Bank 204
+RAPID;Reproductive And Prenatal Information Databank 205
+CMDA;Cardiovascular Medicine Database Archive 205
+NDNA;Neurological Disorders Network Archive 206
+GHDA;Global Health Data Archive 207
+RADA;Reproductive and Adolescent Health Database Archive 207
+PDHA;Pulmonary Disease Histopathology Archive 208
+EMDA;Endocrine Medicine Database Archive 209
+ODNA;Oncological Disorders Network Archive 210
+GIDA;Global Infectious Diseases Archive 210
+RHDA;Rheumatologic Health Data Archive 211
+MNDA;Musculoskeletal Neurological Database Archive 212
+CARDS;Cardiovascular Research Database System 212
+NEURO;Neurological Disease Information Repository 213
+ONCO;Oncology Data Archive Network 214
+IMMUNO;Immunological Studies and Analysis Library 214
+RESPIR;Respiratory Health Tracking System 215
+ENDOCRINO;Endocrine Disorders Research Index 216
+NEPHRO;Kidney Disease Information Center 217
+GENETICA;Genetic Mutation Database for Medical Research 218
+PSYCHIA;Psychiatric Patient Records and Analysis 219
+INFECTIO;Infectious Diseases Monitoring System 220
+CMA;Cancer Medical Archives 221
+MDRA;Medical Data Repository for Allergies 222
+NHADB;National Heart Health Database 223
+GDA;Global Diabetes Archive 223
+IMMDB;International Microbiome Metadata Database 224
+PMDS;Pediatric Medical Dataset System 224
+MNHD;Medical Neurological History Database 225
+RHADB;Reproductive Health Archives and Data Bank 226
+GPHD;Global Pharmaceutical Histories Database 227
+VRDB;Virtual Reality Medical Research Database 228
+MEDIAN;Medical Data Integration and Analysis Network 228
+CARENET;Collaborative Advanced Research for Enhanced Neurological Treatment 229
+GENOMEX;Genomic Information Exchange Database 229
+VITALDB;Vitamin and Nutrient Tracking Archive Library 230
+PSYCHONET;Psychological Data Network for Mental Health Studies 231
+PHARMACOR;Pharmaceutical Compendium of Research Outcomes Repository 231
+EPIDEMIC;Epidemiology Database for Infectious Disease Monitoring and Control 231
+IMMUNOLOGYX;Immunological Data Exchange System 232
+CANCERBASE;Cancer Patient Registry and Biobank Network 233
+HEARTNET;Heart Health Research Institute Network 234
+CARA;Cardiovascular Research Archives 234
+MEDIAN;Medical Data Integration and Analysis Network 234
+PATHOS;Patient Health Outcomes Surveillance System 234
+PHARMADOC;Pharmaceutical Documentation Database 235
+NEUROPATH;Neurological Pathology Information Repository 235
+EPIDEMICA;Epidemiological Data Collection and Analysis Archive 236
+ONCOBASE;Oncology Database for Biomedical Advancement in Science & Engineering 236
+BIOMEDAL;BioMedical Algorithms Library 236
+CARDS;Cancer Archives for Research and Data Sharing 236
+MEDIANET;Medical Education Database Network 237
+GEMS;Global Epidemiological Monitoring System 238
+HELIX;Healthcare Evidence Library Index 238
+PATHWAYS;Patient Health Assessment Tracking & Wellness Analysis System 238
+HEARTBEAT;Health Emergency Response and Treatment Behavioral Analytics Toolkit 239
+MEDICUS;Medical Data Integration, Collection, Utilization & Storage System 239
+BRAINBOX;Brain Research Archive for Innovative Neuroscience eXploration 240
+CAREPATH;Comprehensive Assessment and Risk Evaluation Pathway Toolkit 240
+HARMONY;Healthcare Analytics Reporting Module for Outcomes, Networks & Yearly data. 240
+MEDIAN;Medical Epidemiology Data Integration and Analysis Network 240
+HCDB;Health Care Database 241
+MEDB;Medical Education Database 241
+GIDA;Global Infectious Disease Archive 241
+PADB;Pharmaceutical Analysis Database 242
+EHMD;Environmental and Human Microbiome Database 243
+VRDB;Virtual Reality Medical Education Database 243
+MIDM;Medical Imaging Data Management 244
+CNND;Cancer Neuroscience Networking Database 245
+GPHD;Global Public Health Database 245
+HCDA;Healthcare Data Archives 245
+MEDBIO;Medical Biotechnology Database 246
+GHAD;Global Health Aid Directory 246
+CMDS;Clinical Medicine Data System 247
+PATIENT;Patient Information Exchange Network 248
+LIFEMED;Life Sciences and Medicine Research Repository 249
+DRUGINFO;Pharmaceutical Drug Information Database 249
+MEDICARE;Medical Care Records Archive 250
+GENETIX;Genetic Data Indexing System 251
+EPIDEM;Epidemiology Disease Monitoring Network 252
+CARA;Cancer Archives Repository and Analysis Database 252
+MEDIAN;Medical Epidemiological Data Integration And Networking Database 252
+GNA;Genetic Neurological Archive Database 253
+PATHOS;Pathology Histopathology Online System Database 253
+IMMUNE;Immunological Medicine Mutual Exchange Electronic Database 253
+CARDIO;Cardiovascular Research Information and Data Organization Database 254
+PHARMADB;Pharmaceutical Medical Advancements Repository Database 255
+PSYCHE;Psychology Counseling Health Education Database 255
+ORTHO;Orthopedic Rehabilitation Therapy Online Hub Database 256
+SURGICA;Surgical Innovations and Clinical Applications Database 257
+MHDB;Medical History Database 257
+ICDA;International Cancer Data Archive 258
+GNA;Genomic Neurological Archives 258
+PADB;Pharmaceutical Analysis Database 258
+LIDA;Life Sciences Information Depository and Analytics 259
+CARDS;Cardiovascular Research Dataset 259
+HEDB;Health Education Data Bank 260
+MHMD;Medical Humanities Multimedia Database 261
+RADS;Radiology Advanced Diagnostics System 262
+GIDA;Global Infectious Disease Archive 262
+CARA;Cancer Analysis Repository Archive 262
+MEDIA;Medical Education Data Information Archives 263
+GHRA;Global Health Research Alliance Database 263
+HIMA;Health Informatics Management Association Database 264
+NRAD;Neurological Research and Analytics Database 265
+PIDB;Pandemic Insights & Disease Biology Database 266
+MEDNA;Medical Education Network Archives 267
+GHRD;Global Health Records Depository 267
+HIMSA;Health Informatics Management Systems Association Database 268
+NRADB;Neurological Research and Analytics Data Bank 269
+DHMDB;Disease Histology Medical Database 270
+CNBMD;Cancer Neuroimaging Biomarker Medical Database 271
+GRA;Genetic Research Archive 272
+MIDA;Medical Imaging Data Archive 272
+PADI;Psychological Assessment and Diagnostic Inventory 272
+RHMDB;Reproductive Health Medical Database 273
+CARMD;Cardiovascular Arterial Remodeling Medical Database 274
+OPHAMD;Ophthalmology Advanced Medical Database 275
+IMMUNEDB;Immunological Disorder Medical Database 276
+NEUROMD;Neurological Disease Medical Database 277
+CARMA;Cancer Analysis and Research Management Association 277
+MEDIAN;Medical Epidemiology Database for International Analysis Network 277
+HERA;Health Records Archive 277
+GENOMEX;Genomic Information Exchange 277
+NEUROPATH;Neurological Disorder Pathway Tracker 277
+IMMUNOLOGYNET;Immunological Data and Research Collaboration Platform 278
+CARDIOBASE;Cardiovascular Disease Analysis Repository 278
+PHARMADATA;Pharmaceutical Information Management System 278
+PSYCHDAT;Psychology Database for Mental Health Studies 278
+ONCOLOGYNET;Oncological Research and Collaboration Network 279
+MIDA;Medical Information Database for Allergies 279
+CODA;Cancer Outcomes Data Archive 280
+GHDA;Global Healthcare Databank Association 280
+NADA;Neurological Analysis & Diagnostics Archive 281
+PEDA;Pediatric Electronic Disease Archives 281
+MMDA;Medical Microbiology Database Alliance 282
+CODRA;Cardiovascular Outcomes Data Repository for Analytics 283
+EHDA;Environmental Healthcare Databank Association 284
+RADA;Radiological Analysis & Diagnostics Archive 284
+PIDA;Pharmaceutical Information Database for Allergies 285
+MEDI;Medical Evidence Database for Information 286
+HCDB;Health Care Data Bank 286
+GHAD;Global Health Archive Depository 286
+PACD;Pathology and Clinical Diagnosis Database 287
+CMDA;Clinical Medical Data Archives 287
+MEDIUM;Medical Education Database for Universities & Medical Schools 288
+EMRDB;Electronic Medical Record Database 289
+HADS;Health Analysis and Decision Support System 290
+GHIDB;Global Health Information Dissemination Base 291
+CMDD;Clinical Medicine Data Depository 292
+CARMS;Cancer Archives and Research Management System 293
+MEDIAN;Medical Education Database for Institutional Analysis Network 293
+GHID;Global Health Information Depository 293
+PATHOS;Patient Archive of Therapeutic Histories Online System 293
+SIMBA;Systematic Integrated Medical Bibliographic Archives 294
+NERVE;Neurological Research and Vital Evidence Database 295
+CARDIA;Cardiovascular Data Information Archive 295
+PEDIAN;Pediatric Electronic Disease Information Network 296
+MINDS;Medical Innovation Network for Discovery and Science 296
+PHARMADAT;Pharmaceutical Medical Archives, Research, and Development Analysis Tool 297
+CIDB;Cancer Information Database 297
+MHDB;Mental Health Data Bank 297
+GDA;Global Diabetes Archive 297
+IHDN;International Heart Disease Network 298
+NRND;Neurological Research and Networking Database 299
+AADS;Advanced Allergy Data System 300
+PCDM;Personalized Cancer Diagnosis Module 301
+GHRD;Global Health Records Depository 301
+CDDN;Cardiovascular Disease Data Network 302
+RDMD;Reproductive Disorders Medical Database 302
+CARDS;Cardiovascular Research Database System 302
+IMMUNE;Immunology Medical Management Unit Network Exchange 302
+NEURO;Neurological Electronic Records Organizing and Reporting 302
+CANCER;Comprehensive Analysis of Neoplasms Collection for Evaluation and Research 302
+PSYCHO;Psychological Support Healthcare Organization 303
+GENE;Genetic Expression Network Explorer 304
+ORGANS;Organ Transplantation Registry And Notification System 305
+INFECT;Infectious Disease Epidemiology Forecasting and Control Technologies 306
+PHARMA;Pharmaceutical Healthcare Administration Research Management Archive 307
+PEDIATRIC;Pediatric Electronic Database for Integrative Treatment, Investigation, and Care 308
+CMDA;Cardiovascular Medicine Database Archive 308
+NDDB;Neurological Disorders Data Bank 309
+GADB;Global Allergies Database 310
+OCID;Oncology Clinical Information Depository 311
+RDDN;Respiratory Disease Diagnostic Network 312
+EPDM;Endocrine Pathologies Document Management System 313
+IHDB;Infectious Health Data Bank 314
+MNDS;Musculoskeletal Neurological Disorders System 315
+PCDA;Psychiatric Care Database Archive 315
+GIDB;Global Immunology Disease Bank 316
+CARMA;Cardiovascular Research Management Association 316
+GENEBASE;Genetic Database for Biomedical Applications and Studies 317
+NEUROPATHYNET;Neuropathy Network 318
+CANCERTRACK;Cancer Treatment Tracking System 319
+IMMUNOLOGYLABS;Immunology Laboratories Information Hub 320
+PSYCHIATRICDATA;Psychiatric Data Archive 321
+PAINRELIEFNET;Pain Relief Network 322
+MEDICALRECORDS;Medical Records Management System 323
+ORTHOPEDICSNET;Orthopedics Network 324
+INFECTIOUSDISEASESDB;Infectious Diseases Database 325
+MEDIBASE;Medical Database System 325
+PATHFINDER;Pathology Information Network and Data Exchange 326
+GENOMEX;Genomic Expression Explorer 326
+CARENET;Clinical Assistance Research Electronic Network 326
+IMMUNEDEX;Immunological Disease Indexing and Extraction System 327
+PHARMACOLOGY;Pharmacology Information Repository 328
+NEUROVISTA;Neurological Visualization and Storage Archive 329
+EPIDEMICON;Epidemiological Conceptual Ontology Network 330
+BIOMEDAL;BioMedical Data Analysis Library 330
+PATHOLOGY;Pathology Tracking and Organizing Laboratory System 331
+CARA;Cancer Archives Repository and Analysis Database 331
+MINDS;Medical Information Network for Disease Surveillance Database 331
+GHAD;Global Health Archive Depot Database 331
+PANDORA;Pandemic Outbreak Response and Research Archive Database 331
+BRAIN;Biomedical Research Archives Integration Network Database 332
+MEDIUS;Medical Epidemiology Data Interchange Universal System Database 333
+GEMS;Genomic Exploration of Mutations in Somatic Cells Database 333
+LIFELINE;Life Sciences Information Exchange Network Library Integration Evaluation & Navigation Database 333
+MEDIQUS;Medical Data Intelligence Quality and Usability Scoring System Database 334
+CADB;Cardiovascular Disease Database 334
+MINDS;Medical Information Network for Disorders and Symptoms 334
+GIDA;Global Infectious Diseases Archive 334
+CANCER;Cancer Analysis, Neoplasms Classification & Evaluation Registry 334
+NEUROBANK;Neurological Data Repository 335
+ORGANIZE;Organ Donation Information System for Transplant Eligibility 336
+PSYCHE;Psychological Health Evaluation & Treatment Records 336
+VITALS;Virtual Integrated Tracker of All Life Signs 336
+CDRM;Cancer Data Repository and Management System 337
+HARP;Healthcare Analytics Research Platform 337
+GEMS;Global Epidemiology Monitoring System 337
+MEDIUS;Medical Electronic Database for Integrated Usage Statistics 337
+PATHOS;Pathogen Tracking and Health Outcomes Surveillance 337
+IHARA;International Heart Attack Risk Assessment Archive 338
+CARES;Comprehensive Autism Research & Evaluation System 338
+NERVE;Neurological Registry for Vital Evidence 338
+PHYSIOMED;Physiological and Medical Data Integration Organization 339
+HELIOS;Healthcare Education Library Information Online System 339
+CARDS;Cardiovascular Research Database System 339
+GENESIS;Genetic and Environmental Studies Information System 339
+MEDICA;Medical Data Integration Center for Analysis 340
+NEUROPATH;Neurological Pathology Archive & Tracking Hub 340
+ORGANIX;Organ Transplant Registry Network 341
+RADIUS;Radiologic Data Integration for Universal Storage 342
+SURGERYNET;Comprehensive Surgery Outcomes Research & Education Network 343
+THERAPEUTICS;Therapeutics History, Efficacy, and Resource Archive Platform 344
+HCAD;Health Care Analytics Database 345
+CNID;Cancer Neuroscience Information Database 346
+GHRD;Global Heart Research Database 346
+MIND;Medical Innovation Network Database 347
+PCDD;Patient Care Data Depository 348
+EBMD;Electronic Biomedical Manuscripts Database 349
+RAD;Radiology Archives Database 350
+CID;Clinical Investigation Database 351
+GDD;Global Disease Directory 352
+LABD;Life Sciences Academic Bibliographic Database 353
+CARA;Cardiovascular Research Archives 353
+GENEDB;Genetic Database for Medical Research 354
+CMDA;Cardiovascular Medical Database Alliance 354
+MHDB;Mental Health Data Bank 354
+GDA;Global Diabetes Archive 354
+ICDS;International Cancer Disease Surveillance 355
+RADIUS;Radiology Image Universal Storage 355
+NMDN;Neurological Medical Database Network 356
+PEDB;Pediatric Electronic Data Bank 356
+MHDB;Musculoskeletal Health Data Base 356
+GEMS;Global Epidemiological Monitoring System 356
+HMDB;Human Microbiome Database 357
+CMDS;Cardiovascular Medical Database System 357
+NMDB;Neurological Medical Database 358
+GHADB;Global Healthcare Analytics and Data Bank 359
+PEDC;Pediatric Electronic Disease Catalogue 360
+MICROMED;Microbial Medicine Information Repository 361
+OPHDAT;Optometry & Pharmacology Health Data Archive 362
+IMDBS;Integrative Medical Database System 363
+PSYCHDATA;Psychological Data Repository 363
+GENEMED;Genetic Medicine Information Center 364
+CMDA;Cancer Medical Data Archives 364
+NHAD;National Healthcare Analytics Database 365
+GDA;Global Diabetes Archive 365
+MIDB;Multidisciplinary Infectious Disease Bank 366
+PCDS;Personalized Cardiovascular Disease Studies 366
+RMDB;Reproductive Medicine Data Banks 367
+CNAD;Comprehensive Neurological and Aging Database 367
+GHID;Global Health Information Depository 367
+OMDA;Orthopedic Medical Data Archives 368
+PAMD;Pediatric Allergy & Mental Disorders Database 369
+ICDA;International Cancer Database Archive 369
+GDAA;Global Diabetes Data Archive 370
+PADB;Pandemic Analytics and Disease Bibliography 370
+MHDB;Mental Health Data Bank 370
+GIID;Global Infectious Illnesses Database 371
+CARDS;Cardiovascular Research Data Store 371
+OMICA;Oncology Medical Information Collection Archive 371
+MEDB;Medical Education Database 371
+PATDB;Patient Analytics and Treatment Database 372
+CARDS;Cancer Archives for Research and Data Sharing 372
+MINDS;Mental Health Information Network Database System 372
+HEARTS;Health Education, Assessment, and Research Tracking System 372
+GENOMES;Genetic Mutation Observatory Monitoring & Evaluation System 372
+CARES;Chronic Ailment Registry for Epidemiological Studies 372
+IMMUNE;Immunology Medical Management Unit Network Exchange 372
+VITALS;Vaccination Information Tracker and Analysis Library System 372
+PULSES;Pulmonary & Cardiovascular Lung Study Environment 373
+NEUROPATH;Neurological Pathways Investigation Database 373
+HEARTHS;Heart Health Tracking System 374
+MEDI;Medical Evidence Database for Information 374
+BIOMED;Biomedical Research Repository 374
+CARDIO;Cardiovascular Disease Archive Network 374
+NEURODAT;Neurological Data and Analysis Toolkit 375
+ONCOBASE;Oncology Biological Sample Bank Exchange 375
+IMMUNOLOGYNET;Immunology Network for Research Sharing 375
+PSYCHINFO;Psychological Information Database 376
+GENEARCHIVE;Genetic Archive of Human and Animal Variation 377
+PHARMABANK;Pharmaceutical Data Bank for Drug Discovery 377
+EPIDATABASE;Epidemiology Data Warehouse for Public Health Research 378
+MEDIBASE;Medical Database for Advanced Systems and Expertise 378
+HEALTHNET;Healthcare Networking Information Tracker 378
+BIOSEARCH;Biological Data Search Engine 379
+DRUGDATA;Drug Discovery and Research Repository 380
+MEDICARE;Medical Care Analysis Resource Exchange 380
+HEALTHTRACK;Healthcare Tracking System for Quality Assurance 380
+BIOMEDNET;Biomedical Network Information Center 380
+GENEARCHIVE;Genetic Data Archive for Clinical and Research Use 380
+MEDICLINIX;Medical Clinical Insights Exchange 381
+IHDB;International Health Data Bank 381
+MEDIAN;Medical Electronic Database for Information Analysis and Networking 381
+GADA;Global Aging Disease Archive 381
+CMDS;Comprehensive Medical Data System 381
+HMIDB;Human Microbiome Integrated Database 382
+BIOMEDAS;Biomedical Analytics Storage 383
+MEDIUM;Multidisciplinary Electronic Documentation for Universal Medicine 383
+NHDS;National Healthcare Dataset 384
+GEMS;Global Epidemiology and Medical Surveillance 384
+HCIDB;Human Cardiovascular Information Database 385
+CARA;Cancer Archives Repository of America 385
+MEDIAN;Medical Education Database for Institutional Analysis Networks 385
+GEMS;Global Epidemiology Monitoring System 385
+PATHOS;Pediatric Allergies, Treatments, and Health Outcomes Study 385
+NERD;Neurological Research & Diagnostics Database 386
+VISIONS;Vision Impairment Surveillance Information Network Systems 386
+CARMA;Cardiovascular Risk Management Archive 386
+MINDS;Mental Illness and Neuropsychiatric Disorder Studies 386
+BIOME;Biomedical Engineering Modeling Environment Database 387
+HEALTHY;Health Education, Assessment, Learning & Training Hub for Youth 387
+AHMDB;Advanced Heart Monitoring Database 388
+CNMDS;Cancer Neural Marker Data System 389
+GDA;Global Diabetes Archive 389
+IMMIS;International Mental Health Information System 390
+LRMSD;Liver Regeneration and Metabolism Study Database 391
+NPDS;National Pediatric Disease Surveillance 392
+OMDB;Orthopedic Medical Data Bank 392
+PBMDS;Pulmonary Biomarker Monitoring & Diagnostic System 393
+RADIUS;Radiology Advanced Imaging and Ultrasound Study Database 393
+SIMDAS;Stroke Intervention Management & Data Analysis System 394
+CARA;Cancer Archives Repository and Analysis Database 394
+MINDS;Molecular Interactions Network Data System 394
+GEMS;Genetic Expression Monitoring System 394
+NERVES;Neurological Research & Evaluation Virtual Storage 395
+VITAL;Virtual Infectious Transmission Analytics Library 396
+PHARMA;Pharmaceutical Healthcare Administration Records Management Archive 396
+CARES;Cardiovascular Analysis and Reporting Electronic System 396
+PSYCHE;Psychiatric Symptomatic Classification & Evaluation Hub 396
+RESPIR;Respiratory Epidemiology Surveillance Platform for Investigation, Research, and Intervention 396
+BIOMEDS;Biomedical Engineering Database for Medical Simulation 397
+MEDIANA;Medical Data Analysis Network 398
+CARDIACS;Cardiovascular Information and Clinical Studies Database 399
+GENOMEX;Genomic Expression Explorer 399
+ONCOBASE;Oncological Research Base 399
+IMMUNEDEX;Immunological Disease Index 399
+PSYCHOHEALTH;Psychological Health Database 400
+PHARMASEARCH;Pharmaceutical Research and Development Archive 401
+CARDS;Cancer Analysis and Research Database System 401
+MINDS;Mental Illness Neuroscience Data Storage 401
+GHANES;Global Health Archive for Nutrition, Epidemiology, and Surveillance 402
+IMMUNE;Immunological Medical Metadata Unification Network Exchange 402
+BIOMED;Biomedical Information Organization Management Database 402
+CARDIOVAS;Cardiovascular Disease Research Vault and Analytics System 403
+GENESEED;Genetic Sequencing Exploration, Evaluation, Discovery Database 404
+NEUROPATHY;Neurological Pathology Analysis Toolkit & Hub 405
+EPIDEMICA;Epidemiological Data Management Integration Collection and Analyzer 405
+CARMA;Cancer Archives for Research and Medical Advancement 405
+MEDIAN;Medical Education Database for Instructional Analysis and Networking 405
+PATHOS;Patient Health Outcomes Surveillance System 405
+GENOMEX;Genomic Expression Library for Experimental Research 405
+MEDI;Medical Evidence Database Initiative 405
+HCAD;Health Care Analytics Database 405
+GHID;Global Health Information Database 405
+PMDA;Patient Medical Data Archive 406
+CODB;Clinical Outcomes and Diagnostic Bank 406
+MEDIUM;Medical Education Dataset for Universities & Medicine 406
+PHAROS;Pharmaceutical Research Online System 407
+LIFEBASE;Life Science Information Exchange Base 407
+GHIDA;Global Healthcare Informatics Database Archive 408
+RADIO;Research and Analysis Data Interchange Organization 409
+CARA;Cancer Archives for Research and Analysis 409
+MEDIAN;Medical Epidemiology Database Network 409
+GEMS;Global Emergency Medicine System 409
+AIDB;Autoimmune Disease Biobank 409
+GENESIS;Genetic Evidence Networking System for Integrative Studies 409
+PATHOS;Pathogenic Organism Tracking Hub and Search 409
+NEURONET;Neurological Disorder Research Electronic Network 409
+CARDIOBASE;Cardiovascular Disease Information Base 409
+IMMUNOTRACK;Immunological Data Tracker 410
+DRUGDATA;Drug Response Genetics Database 410
+CARA;Cancer Archives Repository & Analysis Database 410
+MINDS;Medical Information Networking Data System 410
+GHAD;Global Health Aid Database 410
+HERMES;Human Epidemiology Research and Management Electronic System 411
+PANDORA;Pandemic Outbreak Response Archive 411
+BRAIN;Biomedical Research & Analysis Information Network 411
+IMMUNE;Immunological Medicine Medical Universal Encyclopedia Database 411
+MEDIUS;Medical Education Data Integration and Utilization System 411
+PHAROS;Pharmaceutical History Archive for Research, Observations, and Statistics 411
+MHDB;Medical Health Database 411
+CADB;Cardiovascular Analysis Database 411
+GNBD;Global Neurological Bioscience Database 412
+ONCD;Oncology Network Cancer Database 413
+IMMD;Immunological Medicine and Microbiome Database 414
+PCHDB;Pediatric Care Health Database 415
+RHIDB;Reproductive Health Information Database 416
+GADB;Genetic Analysis DataBase 416
+PHYMD;Physical Medicine & Rehabilitation Database 417
+EPIBD;Epidemiological Biostatistics Database 418
+MEDIAN;Medical Data Integration And Networking Database 418
+CARDS;Cancer Archives for Research and Data Sharing 418
+MINDS;Mental Illness Neuroscience Database System 418
+GENOME;Genetic Open Medical Exchange 418
+PATHOS;Pathology Histopathological Online Storage 418
+EPIDEMIC;Epidemiological Disease Information Collection 418
+RADIUS;Radiological Analysis and Diagnostic Imaging Universal System 418
+CARDIOVASC;Cardiovascular Health Research Database 419
+NEURONET;Neurological Network for Electronic Transmission 419
+IMMUNE;Immunology Medical Management Exchange 419
+PHARMADATA;Pharmaceutical Data Archive and Tracking System 419
+CMDA;Cardiovascular Medicine Database Archive 419
+NHAD;National Health Assessment Dataset 419
+GNDB;Global Neurological Disease Bank 419
+ODAR;Oncology Data Analysis Repository 419
+MIDB;Medical Imaging & Diagnostic Biobank 419
+PADA;Pharmacological Adverse Effects Archive 420
+GHDB;Global Healthcare Delivery Database 420
+EPIV;Epidemiology and Vaccination Information Vault 421
+MEDB;Medical Education Data Bank 421
+CARDS;Cardiovascular Disease Research Database System 421
+MINDS;Mental Illness Neuroscience Data Storage 421
+GENOME;Genetic Information Management and Organization Environment 421
+CANCER;Comprehensive Analysis of Neoplasia Collection & Evaluation Repository 421
+IMMUNE;Immunology Medical Metadata Unified Network Exchange 421
+PATHOLOGY;Pathological Anatomy Testing Hub Organizing Laboratory Information 421
+NEUROPATH;Neuropathy Pathophysiology Tracker and Analysis Platform 421
+ONCOLOGY;Oncological Outcomes Navigation & Clinical Logging Yield 421
+EPIDEMIC;Epidemiological Data Management Integration Center 421
+PHARMACOLOGY;Pharmaceutical Research Archive for Medicine, Compounds, and Organic Synthesis 421
+MIDB;Medical Information Database 421
+CARDS;Cardiovascular Research Data System 421
+HEDA;Health Emergency Disease Archive 422
+GNDB;Global Neurological Disorder Bank 422
+PADS;Pediatric Allergy and Dermatology Study 422
+LIDB;Liver Infection Database 423
+RADB;Respiratory Ailment Data Base 424
+ODDS;Oncological Disease Diagnostic System 425
+MEDB;Medical Education Database 425
+CARDS;Cardiovascular Research Data System 425
+HCA;Health Care Archives 426
+MEDA;Medical Education Database 427
+CIDB;Clinical Investigation Data Bank 427
+GHAD;Global Health Analysis Database 427
+PCD;Patient Case Database 428
+ASDS;Advanced Surgery Documentation System 429
+IMDL;Integrated Medical Data Library 430
+RDMS;Research and Development Medical Studies 431
+MEDIAS;Medical Information Access System 432
+CMDA;Comprehensive Medical Database Archive 432
+MEDIANA;Medical Data Analysis Network 432
+CARDIOBASE;Cardiovascular Disease Database 432
+NEURONET;Neurological Disorder Information Repository 432
+CANCERTRACK;Cancer Research and Treatment Knowledgebase 432
+IMMUNOLOGYVAULT;Immunology Data Archive 433
+PSYCHDB;Psychological Health Records Bank 434
+GENETICADEMY;Genetic Database for Medical Advancements 435
+RESPIRONET;Respiratory Disease Research Center 435
+ONCOLOGYARCHIVE;Oncology Information Repository 436
+EPIDEMIOLOGYHUB;Epidemiological Data Sharing Platform 437
+CNA;Cardiovascular Neurology Archives 438
+PADB;Pediatric Allergy Database 438
+GDA;Global Diabetes Archive 438
+OCDB;Oncology Clinical Data Bank 438
+NMDS;NeuroMuscular Disease System 439
+RDMS;Respiratory Disorder Medical Storage 439
+IHADB;Infectious Hematological Anomalies Database 440
+GNDB;Genetic Neurological Disorders Base 440
+OPHIS;Optometry, Pharmacy, and Health Information System 441
+ACCDB;Advanced Cardiac Care Data Bank 442
+CIDB;Cancer Information Database Bank 442
+NDAR;Neurological Disorders Archives Repository 442
+GHAD;Global Heart Health Awareness Database 442
+IMMDB;Immunology Medical Data Base 442
+MEDSAT;Medical Education Satellite Archive 443
+RADIAN;Radiological Information and Analysis Network 444
+PATHWAY;Patient Treatment History Warehouse for Years of Advancements 445
+LIFELINE;Life Sciences Integrated Encyclopedia Library & Information Exchange 445
+MEDICUS;Medical Data Indexing, Categorization, and Unified Search System 445
+HEALTHY;Healthcare Education And Learning Tools Hub 445
+MEDIBASE;Medical Database System 445
+HCATS;Health Care Analysis & Tracking System 446
+CARENET;Collaborative Advanced Research Network 446
+HEALTHLINK;Holistic Electronic Archive of Lifetime Information for Total Health Knowledge 447
+MEDICUS;Medical Data Integration and Clinical Utilization System 447
+GEMS;Global Epidemiological Monitoring System 447
+HARMONY;Healthcare Analytics & Research Management Online Network for You 447
+AURORA;Advanced Universal Repository of Outcomes, Records, and Analysis 448
+CAREDATA;Comprehensive Accessible Resources for Enhanced Data Tracking 449
+MHAD;Medical Healthcare Archives Database 449
+CIDB;Cancer Information and Data Bank 449
+GNDB;Global Neurological Disease Database 449
+ICDS;International Cardiovascular Study Database 449
+RDDB;Reproductive Disorder Diagnostic Database 449
+EHAD;Emergency Healthcare Administration Database 450
+PPDM;Public Pandemic Data Management System 451
+HIDB;Human Immunodeficiency Disease Bank 452
+MNDB;Medical Nutrition Database 453
+GDD;Global Dermatology Database 453
+CEDA;Cancer Epidemiology Data Archive 454
+MIDAS;Medical Imaging and Diagnostics Analysis System 455
+GHAD;Global Health Analytics Database 455
+PANDORA;Pandemic Outbreak Response & Recovery Archive 455
+NDAR;Neurological Disorder Research Repository 455
+IMDS;International Mental Health Data Service 456
+CARDINAL;Cardiovascular Risk Assessment and Disease Information Library 457
+HEDRA;Human Evolutionary Database for Anthropological Research 458
+GEMS;Genetic Epidemiology Medical Studies 458
+ODYSSEY;Oncology Data Yielding Systematic Scientific Evaluation 459
+CNA;Cardiovascular Network Archive 459
+DRA;Drug Research Archives 460
+GMA;Global Mental Health Database 461
+ICA;International Cancer Archive 462
+LPA;Liver Pathology Atlas 463
+NDA;Neurological Disorder Archive 464
+PBA;Pediatric Brain Anomalies Database 465
+RNA;Reproductive & Neonatal Archives 466
+SCA;Spinal Cord Injury Archives 467
+VRA;Vision Research Archives 468
+CARMA;Cancer Archives for Research and Medical Advancement 468
+MEDIAN;Medical Education Database for Institutional Analysis and Networking 468
+GEMS;Global Epidemiological Monitoring System 468
+PATHWAYS;Patient Healthcare Access Tracker Worldwide Assessment Yearly Survey 468
+HEALTHY;Health Information Exchange And Learning Tool Hub 468
+MEDICUS;Medical Database for International Clinical Usage Standards 468
+GENOMEX;Global Network of Omics Experimental eXchange 468
+PREVENTION;Preventive Medicine Education and Nutrition Tracking Initiative Evaluation Network 469
+LIFESPAN;Longitudinal Investigation into Factors Enhancing Survival, Performance And Natural Health 470
+HEARTBEAT;Holistic Electronic Archiving of Records for Treatment Benefits in Emergency Assistance and Telemedicine 470
+MHDB;Medical Health Data Bank 470
+CEDB;Cancer Epidemiology Database 471
+GNID;Global Neurological Information Database 472
+PADS;Pediatric Allergy and Disease Studies 472
+ODAR;Orthopedic Diagnostic Archive Repository 472
+IHDB;International Health Data Bank 472
+CARD;Cardiovascular Analysis Research Database 472
+EHMD;Environmental Health Monitoring Database 472
+GIDB;Global Infectious Disease Database 472
+PADS;Psychiatric Assessment and Diagnostic Studies 472
+CADB;Cancer Analysis Database 472
+MIDA;Medical Imaging Data Archive 472
+GHDB;Global Healthcare Databank 472
+DNAB;DNA Sequence Annotation Bank 473
+PEDB;Public Epidemiology Database 473
+NDAR;Neurodevelopmental Disorders Research Archive 473
+MIDAS;Medical Information and Data Analysis System 473
+GHAD;Global Health Analytics Database 473
+CARD;Cardiovascular Risk Assessment Repository 473
+PEDBIO;Personalized Epidemiology Database for Individual Outcomes 474
+MEDI;Medical Data Index 474
+CARDIA;Cardiovascular Research Database for Analysis 474
+GENESIS;Genetic and Environmental Study Information System 474
+EPIDATA;Epidemiological Data Archive 474
+NEUROBASE;Neurological Disorder Biobank and Evaluation System 475
+ONCOLOGYNET;Oncology Networked Database for Research and Treatment 475
+IMMUNOTRACK;Immunological Tracking and Analysis Repository 475
+PATIENTPATH;Patient Pathway Information Management System 476
+PHARMACODATA;Pharmacological Data Archive 477
+MENTALHEALTH;Mental Health Electronic Records Network 478
+CARA;Cardiovascular Research Archive 478
+GENIUS;Genetic Information Unified System 479
+MEDIA;Medical Education Database for Innovation and Accessibility 479
+PSYCHE;Psychiatric Care Health Evaluation System 479
+REGENESIS;Regenerative Medicine Information Storage 480
+SIMBA;Systems Immunology Medical Bibliographic Archive 480
+VITALITY;Vitamin and Mineral Tracking for Integrated Therapy Yields 481
+CMDA;Cardiovascular Medical Database and Archives 481
+NDAR;Neurological Disease Analysis Repository 481
+GDA;Global Diabetes Archive 481
+PIDB;Pediatric Infectious Diseases Bibliography 481
+OMDB;Oncology Medical Data Bank 481
+RMDC;Respiratory Medicine Database Center 482
+HMDS;Human Microbiome Data Store 483
+GHAR;Global Health Archives and Repository 484
+CNADB;Cancer Neuroscience Analysis Databank 485
+IMDBA;Immunology Medical Database and Analytics 486
+CARDS;Cardiovascular Disease Registry Database 486
+MINDS;Mental Illness Neuroscience Data Storage 486
+CANCER;Cancer Analysis Network for Clinical Evidence and Research 486
+GENESIS;Genetic Epidemiology & Statistics Information System 486
+PATHWAYS;Patient Health Assessment, Tracking, and Wellbeing Yearly Surveillance Database 486
+EPIDEMIC;Epidemiological Data Management Integration Center 486
+BIOMED;Biomedical Innovations Online Database 486
+CADR;Cancer Archives and Data Repository 486
+NDAR;Neurological Disorders Analysis Resource 486
+GDA;Global Diabetes Archive 486
+HDR;Heart Disease Registry 487
+IHAR;Infectious Healthcare Analytics Repository 488
+RADR;Respiratory Ailments Data Repository 489
+ODAR;Oncology Data Analysis Resource 489
+MMAR;Musculoskeletal Medicine Archives and Research 490
+BIAR;Biological Interactions Analysis Repository 491
+PADR;Psychiatric Assessment Database 492
+MEDIAN;Medical Epidemiology Database for Infectious and Noncommunicable Diseases 492
+POPULOME;Population Health Information Management Environment 493
+CARDS;Cancer Archives for Research and Data Sharing 493
+MINDS;Mental Health Information Network Database System 493
+GENOME;Genetic Information Online Management & Exchange 493
+PATHOS;Pathology Analysis Tools Hub Online Services 493
+VITAL;Vaccine Inventory Tracking And Logistics 493
+REGENESIS;Regenerative Medicine and Stem Cell Innovation Storage System 493
+AURORA;Advanced Ultrasound Research Online Archive 493
+EPIDEMIC;Epidemiology Data Management & Information Collection 493
+IMMUNOLOGY;Immunological Research Database for Organizing Laboratory Knowledge 494
+NEURONET;Neurological Network for Evaluation, Research and Treatment 494
+CARA;Cancer Archives Repository and Analysis 494
+MEDIAN;Medical Electronic Database of Imaging, Anatomy, and Neurology 494
+GEMS;Genetic Expression Mutation Study 494
+HERMES;Health Records Management and Encryption System 494
+CARE;Chronic Ailment Research Exchange 495
+MEDICA;Medical Data Integration for Clinical Analysis 495
+PATHOS;Psychiatric Assessment Tools, Histories, Outcomes, and Statistics 495
+IMMUNE;Immunology Medical Management Unit Network Exchange 495
+VITALS;Vital Signs Tracking & Analytics Library System 495
+MEDIUS;Medical Education Database for Instructional Use in Surgery 495
+HMDA;Health Medical Data Archive 496
+MEDIAN;Medical Electronic Database for Information and Analysis Network 496
+GHID;Global Healthcare Information Depository 496
+CADABRA;Comprehensive Acute Disease Archives and Biomedical Research Assets 497
+MINDS;Medical Institutional Neural Data System 497
+GEMS;Global Epidemiological Monitoring System 497
+CARENET;Collaborative Archive for Rare and Emerging Networks in Translational Medicine 497
+MEDIUS;Medical Electronic Data Interface for Universal Sharing 497
+HERMES;Healthcare Research Management, Evaluation, and Surveillance System 497
+CMDA;Cardiovascular Medical Database Alliance 497
+NDNA;Neurological Disorder Network Archives 497
+GHDA;Global Health Data Archive 497
+OMDB;Oncology Medical Database Bank 497
+RIDA;Respiratory Illness Diagnostic Assistance 498
+EMDA;Endocrine Medicine Data Alliance 498
+IBDN;Infectious and Bacterial Disease Network 499
+PCDA;Pediatric Care Database Association 499
+MHDA;Mental Health Data Archive 500
+RDNA;Rheumatology Disorder Network Archives 501
+CARMA;Cancer Archives for Research and Medicine Advancement 501
+MINDS;Medical Information Network Database System 501
+GENOME;Global Epidemiology of Neurological, Oncological, Metabolic & Endocrine Diseases 501
+HEARTS;Healthcare Electronic Archive Repository for Transplantation and Surgery 501
+REGENESIS;Regenerative Medicine Genetic Information System & Exchange 501
+VITALS;Virtual Integrated Translational Applications in Life Sciences 501
+PREVENT;Prevention, Research and Evaluation of Viral Emerging Threats Network 502
+CARENET;Collaborative Advanced Research Environment for Neurological Therapies 502
+CMDA;Cardiovascular Medical Database Archives 502
+MHAD;Mental Health Analysis Database 502
+GDA;Global Diabetes Archive 502
+OCDB;Oncology Clinical Data Bank 502
+NPIDB;Neurological Patient Information Database 503
+RMDS;Respiratory Medical Data System 504
+AHAD;Allergy Health Analysis Database 505
+GIMS;Gastrointestinal Medical Storage 505
+OPHD;Ophthalmology Healthcare Databank 506
+PEDB;Pediatric Electronic Disease Bank 506
+CARD;Cardiovascular Research Database 506
+OMNI;Oncology Medical Network Information 507
+PANDEMICA;Pandemic Disease Analysis and Control Repository 508
+EPIDEMICA;Epidemiology Research Database 508
+MEDIAN;Medical Data Indexing and Analysis Network 508
+HERA;Healthcare Records Archive 508
+CARES;Comprehensive Archives for Research in Epidemiology and Statistics 508
+PATHWAYS;Patient History and Wellness Analysis Yielding Superior Solutions 508
+HARMONY;Healthcare Analytics Repository Modeled on Networks for Years of Research 508
+CARENET;Collaborative Archive for Research in Epidemiology, Nutrition, Exercise, and Therapeutics 508
+PATHFINDER;Patient History Tracking Framework Integrating Data from Electronic Records 508
+CARETRACK;Comprehensive Archival Record Environment for Tracking Clinical Outcomes 509
+CARDS;Cardiovascular Research Database System 509
+MINDS;Mental Illness Neuroscience Data Storage 509
+GENOMES;Genetic Information Management for Enhanced Science 509
+CANCER;Comprehensive Analysis of Neoplasms in Cancer Epidemiology Registry 509
+PEDIATRIX;Pediatric Disease Investigation and Treatment Exchange 509
+INFECTIOUS;Integrated Network for the Forecasting, Evaluation, and Control of Infectious Outbreaks 510
+NEURONETS;Neurological Data Analysis and Management System 511
+IMMUNOLOGY;Immunological Research Information Tracker 511
+ENDOCRINE;Endocrine Disorders Database for Investigation and Education 512
+PATHOLOGICA;Pathology Archives of Tumor, Organ, Lesion, Genetic Analysis 513
+CARA;Cancer Archives Repository of America 513
+MEDIAN;Medical Electronic Data Integration And Networking 513
+GHIN;Global Health Information Network 514
+PATHOS;Patient Assessment Tools for Holistic Outcomes Study 514
+BIONIC;Biological and Inorganic Nanomaterials Information Center 515
+MINDS;Medical Innovations in Neurological Disorders System 515
+CARENET;Collaborative Aid to Research and Education Networking 515
+GENOMEX;Global Exome Sequencing Database 515
+PREVENTION;Preventive Medicine Evaluation, Treatment, Information, & Navigation 515
+CARDS;Cardiovascular Disease Registry System 515
+GENESIS;Genetic and Environmental Epidemiology Study Information System 515
+MINDS;Mental Illness Neuroscience Database System 515
+ONCOBASE;Oncological Biomedical Archives for Scientific Exploration 515
+PATHWAYS;Precision Healthcare Analytics Tracking Hub With Advanced Yearly Statistics 515
+RADIUS;Radiology Data Integration and Universal Storage 515
+SPECTRUM;Systematic Pathogenic Epidemiological Collection, Tracking, Research, Understanding, and Management 516
+TRAJECTORY;Translational Research Archive for Jointly Transforming Outcomes in Oncology, Rheumatology, and Yields 517
+VITALS;Vaccine Immunization Tracking and Logistics System 517
+WELLNESS;Worldwide Epidemiological Library Linked to Electronic Networked Systems for Surveillance 518
+AHMDB;Advanced Human Microbiome Database 518
+CNRD;Cancer Neuroscience Research Database 518
+GDA;Global Diabetes Archive 518
+IHMD;International Health Metrics Database 519
+LSIDB;Life Science Information Database 520
+MCNRDB;Medical Clinical Notes Research Database 521
+NPADB;National Pharmaceutical Adverse Event Database 522
+OMICD;Omics Integration and Collaborative DataBase 523
+PPD;Precision Public Health Database 524
+TCIDB;Translational Cardiovascular Imaging Database 525
+MEDIANA;Medical Data Integration and Analysis Network 525
+CARMA;Cardiovascular Research Management Archive 525
+GENOMES;Global Epidemiological Observatory for Monitoring Emerging Syndromes 525
+NEUROPATH;Neurological Disorder Pathology Database 525
+PREVENTA;Preventative Medicine and Therapeutic Advancements Network 526
+VITALIA;Virtual Interactive Training in Life Sciences Institute of Applied Research 527
+ONCOLOGYX;Oncological Disease Catalog for Genetic, Clinical, and Epidemiological Studies 528
+EPIDEMICA;Epidemic Information Collection and Analysis System 528
+PHARMADEX;Pharmaceutical Data Exchange Network 529
+IMMUNOLOGIA;Immunology Research Institute of Molecular Advancements 530
+CARDS;Cardiovascular Research Database System 530
+MINDS;Medical Innovation Neurological Data Store 530
+GHANA;Global Health Analysis Network Archive 530
+CANCER;Cancerous Tumor Registry & Evaluation Database 530
+GENESIS;Genetic Epidemiology and Surveillance Information System 530
+HEARTS;Heart Disease Research Tracking System 530
+PEDIATRICS;Pediatric Healthcare Analysis Repository for Treatment, Intervention, Care, and Statistics 530
+IMMUNE;Immunological Medical Data Exchange & Evaluation 530
+ONCOLOGY;Oncology Network Cancer Database 530
+REHABILITATION;Rehabilitation Therapy Information Management System 531
+CMDA;Cardiovascular Medical Database Archive 531
+NEDA;Neurological Electronic Data Archive 532
+GHDA;Global Healthcare Databank Archive 532
+PADA;Pediatric Allergies Digital Archive 532
+ODNA;Oncology Disease Network Archive 532
+EMDA;Endocrine Medical Database Archive 532
+RADA;Respiratory Ailments Data Archive 532
+MHDA;Mental Healthcare Documentation Archive 532
+SIDA;Surgery Information Digital Archive 533
+CODA;Chronic Obstruction Disease Archive 533
+IHDB;International Heart Disease Database 533
+CNADB;Cancer Neural Adaptation Database 533
+GDA;Global Diabetes Archive 533
+NMDB;National Mental Health Database 533
+VRMD;Virtual Reality Medical Data Bank 534
+PCD;Patient Care Database 534
+AHDB;Advanced Human Disease Database 535
+BIOMED;Biomedical Research Database 535
+GEHD;Global Epidemiology of Heart Disorders 536
+MEDBANK;Medical Information Bank 537
+MEDIBASE;Medical Database for Health Information Exchange 537
+CARDIOLAB;Cardiovascular Research and Data Laboratory 538
+CANCERTRACK;Comprehensive Cancer Tracking System 538
+NEURONET;Neural Networks for Brain Imaging and Analysis 538
+PATHOLOGYPLUS;Pathology Data Integration Platform 539
+PHARMACOVIGILANCE;Pharmaceutical Safety Monitoring Database 540
+METABOLICDATA;Metabolic Disease and Nutrition Information System 541
+IMMUNODATA;Immunology Research Data Repository 542
+GHMDB;Global Health Monitoring Database 543
+CNIDB;Cancer Network Information Database 544
+NPIDB;Neurological Patient Information Database 544
+RADB;Radiology Archive and Data Bank 544
+EMD;Epidemiological Medical Database 545
+GHIDB;Global Healthcare Informatics Database 545
+PDBD;Pharmaceutical Developmental Biobank Database 546
+MEDB;Medical Education Database 546
+LSIDB;Life Science Information and Data Bank 546
+HCD;Health Care Delivery Database 547
+CARMA;Cancer Archives and Research Management Association 547
+MEDIAN;Medical Education Database Initiative for Advanced Networking 547
+GENOMEX;Genomic Expeditions in Medicine Exchange 547
+AIRS;Allergies, Immunology, Respiratory Systems database 548
+NEUROLEAP;Neurological Research Leap: Analyzing and Processing Data for Advancements 549
+CARDIOVIZ;Cardiovascular Information Zone Visualizing Integrated Knowledge 550
+PSYCHOLOGIX;Psychological Intervention Strategies & Outcomes Global Library of Experiences 551
+PHARMADATA;Pharmaceutical Analysis and Research Management Association for Data Tracking 551
+EPIDEMICA;Epidemiology Information Center: Analyzing, Collecting, Archiving 551
+ORTHOPEDICON;Orthopedic Knowledge Network: A Comprehensive Online Database of Innovations 552
+CARDS;Cardiovascular Research Database System 552
+PANDA;Pediatric and Neonatal Disease Archive 552
+GEMS;Genetic Expression Molecular Study 552
+HERMES;Healthcare Emergency Management Systems 552
+RADIUS;Radiology Analysis & Diagnostic Imaging Universal System 552
+BRAINZ;Brain Research and Information Access Network Zone 553
+SAGE;Surgery Advancement Global Exchange 554
+MINDSET;Medical Innovation Network Database for Scientific Evaluation and Translation 555
+CMDA;Cancer Metastasis Data Archive 555
+IHAD;Infectious Healthcare Analysis Database 556
+GNDA;Global Neurodegenerative Disease Archives 557
+RDDB;Reproductive Disorders Diagnosis Bank 557
+MIDB;Medical Imaging and Diagnostic Banks 557
+CVDAS;Cardiovascular Disease Analytics System 558
+PADA;Pharmacological Analysis Database Archive 558
+HDDN;Health Data Distribution Network 559
+GHCDS;Global Health Care Delivery Systems 560
+MIDB;Medical Imaging and Diagnostic Banks 560
+CARA;Cardiovascular Research Archives 560
+MEDIAN;Medical Data Integration and Analysis Network 560
+GENOMEX;Genomic Expression Database 560
+PATHOS;Patient Health Outcomes Surveillance System 560
+NEUROVUE;Neurological Disorders Visualization Environment 561
+IMMUNEDEX;Immunological Disease Exchange 561
+CANCERTRACK;Cancer Treatment and Research Knowledgebase 561
+EPIDEMICA;Epidemiology Information Collection Archive 561
+PHARMACOVIGIL;Pharmacovigilance Monitoring System 562
+PSYCHDATA;Psychological Data Repository 562
+CIDB;Cancer Information Database Bank 562
+MEDA;Medical Education Data Archive 562
+GHAD;Global Healthcare Analytics Database 562
+NDAR;Neurological Disorder Research Repository 562
+ICDS;International Cardiovascular Disease Study 562
+PDBR;Pharmaceutical Drug Benefit Registry 563
+EHRP;Electronic Health Records Preservation Project 564
+GHADB;Global Healthcare Analytics Database 564
+MORA;Medical Outcomes Research Archive 565
+ICDSAR;International Cardiovascular Disease Study and Analysis Repository 566
+CMDA;Cancer Metastasis Database Archive 566
+NNDB;Neurological Networks Data Bank 567
+GHID;Global Heart Health Information Depository 567
+IADM;International Autoimmune Disease Management System 568
+EGDA;Endocrine Genetics Data Archive 569
+MMDS;Musculoskeletal Medical Database Service 570
+PNDB;Pharmacogenomics Network Database 571
+RDMS;Respiratory Disease Monitoring System 571
+VADB;Visual Anatomy Digital Bank 572
+GIDA;Global Infectious Diseases Archive 572
+CARDS;Cardiovascular Research Database System 572
+PANDA;Pediatric Allergy Network Database Archive 572
+GENOMES;Genetic and Omics Medical Exploration Systems 572
+NEURONET;Neurological Disorder Information Network 572
+LIFESCIENCE;Life Sciences Integrated Data Collection Environment 572
+CANCERTRACK;Comprehensive Cancer Treatment Registry And Clinical Knowledgebase 572
+MEDICUS;Medical Education Database for Instructional Curriculum and Study 572
+IMMUNOLOGY;Immunology Medical Records Organizing Library System 572
+PHARMABASE;Pharmaceutical Analysis, Search, and Evaluation Network 573
+HEALTHNET;Healthcare Electronic Archive Linking Treatment History and Expertise Network 573
+CARDS;Cardiovascular Disease Research Database 573
+CANCER;Comprehensive Analysis of Neoplasia in Cancer Evolution Registry 573
+GDA;Global Diabetes Archive 573
+MINDS;Mental Illness and Neurological Disorder Studies 573
+IMMUNE;Immunological Medicine Medical Database for Enhanced Research 573
+PANDEMIC;Pandemic Analysis Network Data Exchange Initiative 573
+ONCOLOGY;Oncology Outcomes and Clinical Laboratory Information Yielding 573
+GENESIS;Genetic Epidemiology Neuropsychiatric Studies Integrated System 573
+LIFEPATH;Longitudinal Investigation of Factors Enhancing Risk Assessment for Type 2 Diabetes Pathways 574
+PHARMASIGHT;Pharmaceutical Analysis and Research Management Information Technology Hub 575
+CARDS;Cardiovascular Research Database System 575
+BIOMED;Biomedical Information and Data Exchange Network 575
+PANACEA;Pandemic Analysis & Control Epidemiological Archive 576
+NEURONET;Neurological Disease Research Network 576
+GENESIS;Genetic Expression Study Informatics System 576
+CANCERBASE;Comprehensive Cancer Data Repository 576
+IMMUNOLOGY;Immunology Database for Advanced Learning and Exploration 576
+MEDICAID;Medical Information Collection, Analysis & Integration Database 577
+PSYCHDATA;Psychological Research Data Archive 577
+PHARMADEX;Pharmaceutical Development Exchange 577
+PACD;Pharmaceutical Archives for Cancer Data 577
+MEDC;Medical Education Database Collection 578
+GHAD;Global Healthcare Analytics Database 578
+LIDA;Life Science Information and Discovery Archive 578
+CARDS;Cardiovascular Research Data System 578
+NERD;Neurological Epidemiology Research Databank 578
+HUDDLE;Human Disease Diagnosis Learning Environment 579
+BIOMED;Biomedical Knowledge and Information Management Database 579
+PATHOS;Pathology Outcomes Study Database 579
+HEALTHY;Healthcare Evidence, Analysis, and Learning Hub for You 579
+MEDI;Medical Evidence Database Initiative 579
+CARA;Cancer Archives for Research Advancement 579
+GEMA;Global Epidemiology Medical Archive 580
+HERMES;Health Records Management and Evaluation System 580
+NAMI;National Allergy & Medicine Information 581
+PATHOS;Patient Health Outcomes Surveillance Database 581
+SIMBA;Systematic Infectious Disease Monitoring & Analysis 581
+VITAL;Vaccine Information Tracking and Analytics Library 581
+REMEDY;Research Evidence Medical Evaluation Database for You 582
+DIALOG;Disease Intervention, Assessment, Learning, Observation, Guidance 583
+CMSD;Cancer Metastasis Surveillance Database 584
+NGHAD;Neurological Genetic Health Archive and Directory 585
+GDA;Global Diabetes Archive 585
+HCID;Human Cardiovascular Information Depository 585
+PPD;Pharmacological Protocol Database 585
+MHRD;Mental Health Research Dataset 585
+CPRD;Clinical Practice Research Dashboard 586
+GHMD;Global Healthcare Metrics Database 587
+LRDD;Liver Regeneration Data Depository 588
+MEDIBASE;Medical Database for Health Information Exchange 588
+GENESIS;Genetic and Environmental Study Interface System 588
+CARENET;Collaborative Aid to Research in Epidemiology Network 588
+BIOCHEMOS;Biochemical Metabolism Observation and Storage 589
+IMMUNOTRACKER;Immunological Data Tracking System 590
+NEUROLOGYDATA;Neurological Disorders Information Repository 591
+CANCERREGISTRY;Comprehensive Cancer Registry for Research and Analysis 592
+DRUGINFO;Drug Interaction Database for Medical Professionals 592
+ICDA;International Cardiovascular Disease Archive 592
+CODB;Cancer Outcomes Database 592
+GNDB;Global Neurological Disorder Bank 592
+RMDS;Respiratory Medicine Data System 592
+DHAB;Diabetes Healthcare Analytics Base 593
+PEDB;Pediatric Endocrine Disease Bank 593
+MSDA;Musculoskeletal Surgery Database Archive 594
+GADB;Global Allergy & Asthma Database 594
+HRDN;Human Reproductive Data Network 595
+OMDB;Oncology Medical Database 595
+CADA;Cancer Archives Database 596
+MIDAS;Medical Imaging Data and Storage System 596
+GHDB;Global Healthcare Databank 596
+IMDS;International Medical Documentation Service 596
+PANDORA;Pandemic Outbreak Response Archive 596
+EMRIS;Electronic Medical Record Information System 597
+CARDS;Cardiovascular Disease Research Database 597
+MEDIAS;Medical Education and Instructional Assistance System 597
+GNOSIS;Global Neurological Observatory for Surveillance, Intelligence, and Support 598
+PHARMAS;Pharmaceutical Analysis and Resource Management Archive 599
+CARDIA;Cardiovascular Disease Information Archive 599
+CARMA;Cancer Archives for Research and Medical Advancements 599
+MEDIAN;Medical Electronic Database for Information Access Networks 599
+HELIX;Healthcare Epidemiology Library Indexing System 599
+GRAVITAS;Global Repository of Advanced Vaccine Innovations, Technologies, and Strategies 600
+PULSE;Public Universal Life Science Exchange 601
+CIRCUIT;Clinical Investigative Research Collaboration for Unified Information Transmission 602
+SPECTRUM;Scientific Platform for Epidemiological, Clinical, and Therapeutic Research Utilizing Machine Learning 602
+AURORA;Advanced Universal Repository of Oncology Records and Analytics 602
+NEUROPATH;Neurological Pathways Database 602
+VITALITY;Virtual Integrated Tracking Archive for Lifelong Health Investigation 602
+CMDA;Cancer Medical Data Archive 602
+IHAD;International Heart Health Database 602
+NRNB;Neurological Research Network Base 603
+GDA;Global Diabetes Archive 603
+IPD;Infectious Pathogen Database 604
+MHAD;Mental Health Assessment Dataset 604
+PCDA;Pediatric Clinical Data Archive 604
+GIDB;Genetic Information Discovery Base 604
+APHD;Advanced Pulmonary Health Database 605
+CARDS;Cardiovascular Research Database System 605
+MINDS;Mental Illness Neuroscience Data Storage 605
+GENOMEX;Genomic Expression Exploration Index 605
+CANCERA;Comprehensive Analysis of Cancer Archives 606
+IMMUNET;Immunology Network for Enhanced Translational Research 607
+PHARMACOVIGIL;Pharmacovigilance Global Information Library 607
+NEUROBANK;Neurological Disorder Biobank and Knowledgebase 607
+EPIDEMICA;Epidemiological Database for Infectious Disease Control Analysis 607
+ORTHODATA;Orthopedic Data Archive for Trauma and Rehabilitation 608
+PSYCHOLOGYX;Psychology eXchange Network 609
+CARA;Cancer Analysis Repository Archive 609
+MEDIAN;Medical Expertise Database for Instantaneous Access Network 609
+GEMS;Genomic and Epigenetic Medicine Storage 609
+PATHOS;Pathology Information System 609
+VITALS;Virtual Integrated Treatment And Life Science Database 609
+PHARMADATA;Pharmaceutical Research Management and Data Archive 609
+LIFEPATH;Longitudinal Investigation of Factors that Enhance or Prevent Health Across the Total Human Life Span 609
+MEDBIO;Medical Biology Database 609
+GENEMED;Genetic Medicine Database 609
+CANCERNET;Cancer Network Database 610
+CARDIOHEALTH;Cardiovascular Health Database 611
+NEUROARCHIVE;Neurological Disorders Archive 612
+IMMUNOLOGYDATA;Immunology Data Repository 613
+PEDIATRICMED;Pediatric Medicine Database 614
+GERONETWORK;Gerontological Network Database 615
+PHARMACODATA;Pharmacological Data Archive 615
+MENTALHEALTHINFO;Mental Health Information Repository 616
+CARDS;Cardiovascular Disease Research Database System 616
+MINDS;Mental Health Information Network and Data Sharing 616
+CANCER;Comprehensive Analysis of Neoplasms in Cancer Epidemiology Registry 616
+GDA;Global Diabetes Archive 616
+NIMBUS;Neurological Illness Management, Benchmarking, and Understanding System 617
+RADIUS;Radiological Data Integration for Universal Sharing 617
+PRECISE;Precision Medicine Research Collaborative Information Sharing Environment 618
+IMMUNE;Immunology Medical Metadata Unified Network Exchange 618
+EPIDEMIC;Epidemiological Database and Management Information Center 618
+ORGANIZE;Organ Transplantation Registry for Advancements, Guidelines, and Education 618
+CARDS;Cardiovascular Research Data System 618
+GENESIS;Genetic Epidemiology Network for Environmental Sciences Information System 618
+MEDIUS;Medical Database for Integrative Understanding and Synthesis 618
+NEUROSIS;Neurological Records Organized for Scientific Investigation and Study 619
+PATHOS;Pathological Health Outcomes Surveillance System 619
+RADAR;Radiology Archive of Digital Anatomical Records 619
+SIMBA;Systems Integration Modeling Biomedical Analytics Database 619
+TRAJECTUS;Trajectory Analysis and Research for Joint Evolutionary Tracking Utilizing Statistics 620
+VITALS;Virtual Interactive Training and Learning System 620
+MEDIBASE;Medical Data Storage System 620
+HERA;Health Records Archive 620
+GENOMES;Genetic Information Management Database 620
+CARENET;Comprehensive Analysis of Risk Evaluation Networks 620
+PATIENT;Patient Assessment and Treatment Information Exchange 620
+LIFELINE;Longitudinal Investigation of Factors Effecting Life Expectancy 620
+EPIDATA;Epidemiological Data Collection System 620
+CLINICON;Clinical Intervention Outcome Network 620
+HEALTHYNET;Healthcare Education and Learning Hub Information Technology Network 621
+PHARMADEX;Pharmaceutical Drug Index and Exchange 621
+CARD;Cancer Archives for Research and Data 621
+MINDS;Medical Information Network Database System 621
+GHANA;Global Healthcare Analytics Network Archive 621
+LIFEPATH;Life Sciences Pathology Tracking Hub 621
+RADIUS;Radiological Analysis and Diagnostic Imaging Universal Storage 621
+CARDS;Cardiovascular Data Repository Service 621
+BRAINZ;Biomedical Research Archives for Innovation, Neuroscience, and Zoology 621
+MEDICA;Medical Electronic Database Integrating Clinical Analytics 621
+GENOMES;Genomic Evidence Network of Medical Expertise Systems 621
+PATIENT;Patient Archive Tracking Information Exchange Network 621
+MEDIANA;Medical Data Network Archives 621
+BIOMEDNET;Biomedical Information Exchange Network 621
+GENOBASE;Genomic Sequence Database 622
+CARDIOVAULT;Cardiovascular Health Records Vault 623
+NEUROCENTRAL;Neurological Disorder Repository 623
+ONCOLOGICA;Oncological Research Archive 624
+IMMUNOARCHIVE;Immunology Data Storage System 625
+PSYCHDATABASE;Psychological Assessment Database 626
+EPIDEMICON;Epidemiological Disease Tracking Database 626
+PHARMADEX;Pharmaceutical Drug Interaction Index 626
+CARDS;Cardiovascular Research Database System 626
+GENESIS;Genetic and Environmental Study Information System 626
+CANCER;Comprehensive Analysis of Neoplasia Cancer Epidemiology Registry 626
+MINDS;Mental Illness Network Data Storage 626
+NEUROPATH;Neurological Pathway Archival Tracking Hub 626
+IMMUNOLOGY;Immunological Research and Observation Laboratory Information System 626
+PATHOGEN;Pathogenic Organism Tracker for Global Epidemiology Network 627
+ONCOLOGY;Oncology Nexus Collaborative Outcomes Library 627
+EPIDEMIC;Epidemic Prevention and Intervention Data Management Center 627
+PHARMABANK;Pharmaceutical Bank of Analytical Knowledge 627
+CMDA;Cardiovascular Medical Database Archives 627
+NIDB;Neurological Information Data Bank 627
+IHDB;International Healthcare Databank 627
+GDA;Global Diabetes Archive 627
+PCDC;Pediatric Cancer Data Center 628
+LMDS;Liver and Metabolism Disease Studies 628
+RADB;Radiology Analysis Database 628
+OMDB;Oncological Medical Database 628
+EHDB;Emergency Healthcare Databank 629
+ICPD;International Chronic Pain Database 630
+CADB;Cancer Archives Database 630
+MIDB;Medical Imaging Data Bank 630
+GHDB;Global Healthcare Databank 630
+PADB;Pharmaceutical Analysis Database 630
+NADB;Neurological Assessment Database 631
+EDDM;Electronic Disease Diagnosis Management 632
+HIDB;Human Immunology Data Bank 632
+GSDA;Global Surgery Documentation Archive 633
+MHDB;Medical History Databank 633
+PADB;Pediatric Allergy Database 633
+CAR;Cancer Archives Repository 634
+MEDI;Medical Electronic Data Index 634
+GNA;Global Neurological Archive 634
+HERA;Health Emergency Response Archive 634
+BIO;Biological Information Organizer 635
+PATH;Patient Healthcare Tracking Hub 636
+CARE;Clinical Assessment and Research Exchange 636
+GENE;Genetic Expression Network Explorer 636
+RADIUS;Radiology Data Integration Universal System 636
+IMMUNE;Immunological Medical Management Unified Network 636
+MEDIAN;Medical Data Integration and Analysis Network 636
+CARENET;Comprehensive Assessment of Risk in Emergency Neurological Treatment Database 636
+GENOMEX;Genomic Expression Explorer 636
+PHARMADEX;Pharmacological Data Exchange Network 636
+IMMUNOBASE;Immunology and Microbiome Research Archive 637
+LIFESPAN;Longitudinal Integrated Federated Epidemiologic Studies of Aging Population Database 637
+CANCERTRACKS;Cancer Treatment, Response, and Survivorship Knowledge System 638
+NEUROBANK;Neuroscience Research Data Repository 638
+METABOLICA;Metabolic Disease Analysis Center Archive 639
+CNH;Cancer Neuroscience Hub 640
+MIDAS;Medical Imaging Database and Analysis System 640
+GDA;Global Diabetes Archive 640
+NRIC;Neurological Research Information Center 641
+PATHOS;Pediatric Allergies, Treatments, Health Outcomes & Solutions 641
+ARCHES;Advanced Rehabilitation Care for Hemiplegic Stroke Survivors 642
+EPIKA;Epidemiology and Knowledge Archive 643
+CARDS;Cardiovascular Research Database System 643
+PHOENIX;Psychiatric Health Outcomes Evaluation & Neuroscience Information Exchange 644
+MEDIUS;Medical Education Data Integration & Utilization System 644
+MIDB;Medical Information Database 644
+HCAD;Healthcare and Clinical Analysis Database 644
+GHRD;Global Health Research Database 644
+EMDS;Electronic Medical Documentation System 644
+LDMS;Life Science Data Management System 645
+CEDB;Clinical Experiment Data Bank 645
+PCDA;Patient Care Data Archive 645
+MIDAS;Medical Information and Discovery Analysis System 645
+HADS;Healthcare Analytics Data Storage 645
+GHDS;Global Health Database System 646
+MIDB;Medical Information Database 646
+CARDS;Cardiovascular Research Data System 646
+GENESIS;Genetic and Environmental Study Information Source 646
+PANACEA;Pandemic Analysis Network for Collaborative Epidemiological Assessment 646
+LIFEPATH;Life Sciences Pathway Archive & Tracking Hub 646
+CARENET;Collaborative Advancements in Research, Evaluation, and Networking 646
+IMMUNOLOGY;Immunology Database of Medical Information 646
+NEUROBANK;Neurological Disorders Data Repository 646
+CANCERBASE;Comprehensive Cancer Analysis & Knowledge Exchange System 646
+PHARMACOMETRICS;Pharmacometrics Research and Evaluation Network 647
+CARDS;Cardiovascular Research Database System 647
+GENESIS;Genetic and Environmental Study Information System 647
+MEDIUS;Medical Education Data Integration Unit System 647
+PATHOS;Pathology Histopathological Observational Studies 647
+SIMON;Systematic Infectious Medicine Online Network 648
+REMEDY;Research in Emergency Medical Database for You 648
+CARES;Cancer Archival Research and Education System 648
+NEUROLOG;Neurological Disorders Library of Genetic Observations 649
+VITALITY;Virtual Integrated Therapeutic Applications & Treatment Information Yielding Insights 649
+PSYCHOLOGY;Psychological Studies Collaborative Online Gathering and Learning Environment 650
+CADB;Cardiovascular Ailments Database 650
+MINDS;Medical Information Network for Disease Surveillance 650
+AHDB;Advanced Heart Disease Database 650
+CNAD;Cancer Neural Analysis Database 650
+GDA;Global Diabetes Archive 650
+IMDS;International Mental Health Data System 650
+LRPD;Liver Research and Patient Data 651
+OHDB;Orthopedic Health Database 652
+PNAD;Pediatric Neurological Analysis Database 652
+RIDB;Respiratory Illness Diagnostic Bank 653
+UCSD;Universal Cancer Study Database 654
+MIDA;Medical Information Database for Allergies 654
+CADB;Cardiovascular Analysis and Data Bank 654
+GHDB;Global Health Disease Bibliography 654
+PEDS;Pediatric Electronic Diagnostic System 655
+MIND;Medical Information Network for Dementia 655
+CADB;Cancer Analysis and Data Bank 655
+GHDB;Global Health Database 655
+PEDS;Pediatric Electronic Diagnostic System 655
+CARA;Cardiovascular Analytics Research Archive 655
+MEDIAN;Medical Data Integration and Analysis Network 655
+GENESIS;Genetic Epidemiology Neural System Information Storage 655
+PATHOS;Patient Health Outcomes Surveillance System 655
+RADIOLOGICA;Radiologic Image Analysis and Clinical Archiving Database 656
+MHAD;Medical Health Archives Database 656
+CIDB;Cancer Information & Data Bank 656
+GNDB;Genetic Networks Database 656
+NIMD;Neurological Imaging & Medical Databank 657
+PPDM;Pediatric Patient Data Management System 657
+IHAD;Infectious Health Archives Database 657
+CARMD;Cardiovascular Risk Management Database 657
+GNDB;Genetic Networks Database 657
+HDD;Healthcare Data Depository 658
+MINDS;Medical Information & Neurological Disorder System 658
+MEDIBASE;Medical Database 658
+PATIENTNET;Patient Network Database 659
+GENOVATIONS;Genomic Innovations Database 660
+IMMUNEARCHIVE;Immunological Archive Database 661
+CANCERTRACK;Cancer Tracking Database 661
+NEUROLOGYDATA;Neurology Data Database 661
+CARDIOBASE;Cardiovascular Disease Database 661
+BIOMEDICUS;Biomedical Research Database 662
+HEALTHINFO;Health Information Database 663
+EPIDEMICON;Epidemiological Concepts Database 663
+CMDA;Cardiovascular Medicine Database Archive 663
+NDAR;Neurological Disorders Research Repository 663
+GDA;Global Diabetes Archive 663
+OMDR;Oncology Medical Data Registry 664
+PADR;Pediatric Allergy and Disease Registry 664
+IMR;Infectious Medicine Records 665
+RMDA;Rheumatoid Medicine Database Archive 665
+GHAR;Global Healthcare Analytics Repository 665
+MDR;Medical Data Repository 666
+PADR;Psychiatric Assessment and Diagnosis Registry 666
+CADB;Cardiovascular Ailment Database 666
+CANDB;Cancer Analysis Network Database 667
+GDA;Global Diabetes Archive 667
+MNDS;Multiple Neurological Disorder Studies 667
+PIDB;Pediatric Infectious Disease Bank 667
+RHAD;Reproductive Health and Development Database 668
+SADB;Substance Abuse Data Base 669
+TCD;Transplantation Case Directory 670
+VIRDB;Viral Infection Research Database 671
+WNDS;Worldwide Neuropsychiatric Disorder Studies 672
+HCIDB;Human Cardiovascular Information Database 672
+OHNDB;Oncology Health Network Data Bank 673
+GDA;Global Diabetes Archive 673
+PNDS;Pediatric Neurological Disease Study 674
+MINDS;Medical Imaging and Neural Disorder System 674
+IMMUNE;International Mutation Monitoring for Universal Epidemiology 674
+RADAR;Repository of Allergies, Dermatitis, Asthma Records 674
+GHNDB;Global Health Network Database 675
+PSYCHE;Psychiatric Symptom Collection and Evaluation 675
+MEDIAN;Medical Data Integration and Analysis Network 675
+HEARTS;Healthcare Electronic Archives for Research, Treatment, and Statistics 675
+CARENET;Collaborative Archive of Rare & Endangered Neurological Entities Tracker 675
+GENESIS;Genetic Epidemiology Networks Establishing Shared Information Systems 675
+LIFEPATH;Longitudinal Investigations of Factors that Enable a Healthy Path 675
+HEALTHYNET;Holistic Electronic Archive Linking Transformative Healing Systems Network 675
+BIOMARKS;Biological Marker Repository for Observational and Clinical Studies 676
+MEDICARE;Medical Data Integration, Collection, Analysis, Retrieval & Evaluation System 676
+HEALTHCODE;Healthcare Electronic Archive Linking Transformative Healing Codes Online Database 677
+CARMA;Cardiovascular Research Management Association Database 677
+MINDS;Medical Information Network for Disease Surveillance 677
+PATHOS;Patient Health Outcomes and Symptoms Archive 677
+GENESIS;Genetic Epidemiology Network of Expertise in Studies Initiative 677
+MEDICUS;Medical Education Data Integration and Curriculum Support System 677
+LIFEPATH;Longitudinal Investigation into Factors Effecting Premature Aging, Health, and Trauma Database 677
+RAPID;Rapid Access to Patient Information Databank 677
+MEDIQUEST;Medical Inquiry and Query System for Educational Tools 677
+CARA;Cardiovascular Arterial Research Archive 677
+RESPIRONET;Respiratory Health Database Network 677
+MHDB;Medical History Database 677
+PADB;Pharmaceutical Analysis Database 677
+CIDA;Cancer Information and Data Archive 678
+GIDR;Global Infectious Disease Registry 679
+NDAR;Neurological Disorder Archives Repository 679
+OMDB;Orthopedic Medical Database 679
+RADB;Radiology Analysis Database 679
+PEDA;Pediatric Epidemiological Data Archive 679
+GHID;Global Health Information Database 679
+CARDS;Cardiovascular Research and Data System 679
+MEDIBASE;Medical Database for Health Information Exchange 679
+HEALTHNET;Global Network of Electronic Health Records 679
+CARETRACK;Comprehensive Archival Record of Treatment and Care Knowledge 679
+PATIENTPATH;Patient Pathology Data Repository 679
+CLINICON;Clinical Outcomes Database for Research Analysis 679
+MEDIQUEST;Medical Inquiry System for Advanced Querying and Searching 679
+HEALTHLINK;Health Information Linkage Network 679
+CAREWATCH;Care Coordination and Monitoring System 680
+GLOBALMED;Global Medical Data Archive for Clinical Research 681
+CARDS;Cardiovascular Research Database System 681
+MINDS;Mental Illness Neuroscience Data Storage 681
+GENOMEX;Genomic Expedition Archive 681
+CANCERIX;Oncology Information Exchange 682
+IMMUNOLOGY;Immunological Discoveries Repository 682
+NEURONET;Neurological Network for Analysis and Treatment 682
+PEDIATRICS;Pediatric Healthcare Records System 682
+EPIDEMICA;Epidemiology Data Collection Agency 682
+SURGICALIA;Surgical Innovation Library Association 683
+PHARMADEX;Pharmaceutical Discovery Exchange 683
+MEDIAN;Medical Data Integration and Analysis Network 683
+CARENET;Comprehensive Advanced Research Electronic Network for Treatment 683
+GENOMEX;Global Genomic Exchange Database 683
+EPIDEX;Epidemiological Disease Tracking Index 684
+CANCERBASE;Cancer Biomarker Archival System 684
+DRUGDEX;Drug Data Exchange Platform 685
+BIOLOGIX;Bioinformatics Library for Integrated Omics eXchange 686
+CLINICALNET;Comprehensive Longitudinal Information Network for Clinical Trials 687
+HEALTHVUE;Healthcare Evaluation, Analysis and Learning Hub 688
+ICDA;International Cancer Database Archive 688
+MHAD;Mental Health Assessment Database 688
+GNAD;Global Neurological Disorders Archive 689
+CARDS;Cardiovascular Risk Stratification Database 689
+PDD;Personalized Disease Diagnosis Database 689
+EMDA;Emergency Medical Data Archive 689
+IMDB;Integrated Medicine and Drug Benefits Database 690
+GHAD;Global Health Assessment Database 690
+CIDB;Chronic Illnesses Database 690
+MGDD;Multidisciplinary Genomic Disease Diagnosis Database 691
+MEDIAN;Medical Data Index and Analysis Network 691
+HERA;Healthcare Records Archive 691
+CARENET;Collaborative Advanced Research & Evaluation Network for Treatment 691
+GENOMES;Genetic Information, Organizing, Managing, Exploring System 691
+INTEGRIS;Integrated Therapeutic Resources and Insights Sharing Database 692
+PATHWAYS;Patient Health Analysis Tracking Hub With Advanced eXploration Systems 692
+CARDIOVAS;Cardiovascular Disease Research & Vitality Assessment Support System 692
+NEURONET;Neurological Disorder Investigation and Networked Evaluation Toolkit 692
+EPIDEMIC;Epidemiological Data Management Information Center 692
+IMMUNOBASED;Immunology Medical Monitoring Unit for Biomarker Analysis and Study Enhancement 692
+CARA;Cancer Archives Repository and Analysis Database 692
+MIDAS;Medical Imaging Data Storage Database 692
+GHAD;Global Healthcare Analytics Database 692
+EMBRACE;Electronic Medical Records for Better Care and Evaluation Database 692
+IDEAL;Integrated Disease Epidemiology and Lifestyle Database 693
+PATHWAYS;Personalized Treatment and Healing Ways Database 693
+MINDS;Mental Illness Neuroscience Data Storage Database 693
+GENOMEX;Genomic Expression Analysis Database 693
+PREDICTA;Predictive Diagnostics in Cardiology and Translational Applications Database 694
+BMDA;Biomedical Data Archives 695
+HCDS;Healthcare Clinical Database System 696
+GHAD;Global Health Analytics Database 696
+PDDN;Patient Diagnosis and Disease Network 697
+MEDB;Medical Education Database 697
+CIDR;Cancer Information & Drug Research 698
+NGMD;National Genomic Medicine Database 699
+HCDB;Healthcare Costs Data Bank 699
+EHRA;Electronic Health Records Archive 700
+RDDN;Reproductive Disease Diagnosis Network 700
+CARD;Cancer Archives for Research and Data 700
+MINDS;Medical Information Network Database System 700
+GHANA;Global Health Analysis Network Archive 700
+LIFE;Life Sciences Information Exchange 701
+HEART;Healthcare Electronic Accessible Records Tracker 702
+BRAIN;Biomedical Research Archives and Information Network 702
+PATHS;Publicly Available Transcriptomics Hub System 703
+MEDICA;Medical Data Integration Collaborative Archive 703
+IDEAS;International Disease Epidemiology Analysis System 704
+CARED;Comprehensive Accessible Records for Elderly Database 705
+CARMA;Cancer Archives for Research and Medical Advancements 705
+MINDS;Mental Illness Neuroscience Data System 705
+GENOME;Genetic Origins of Medicine & Evolutionary Studies 705
+HEARTS;Healthcare Education Archive, Resources, Training, and Support 705
+IMMUNE;Immunology Medical Metadata Universal Network Exchange 705
+PATHWAYS;Precision Analysis Tools for Holistic Wellness Assessment in Years to come 705
+VITALS;Virtual Interactive Teaching & Learning System 705
+CARENET;Comprehensive Advanced Research Environment for Neurological Treatments 705
+LIFESPAN;Longitudinal Investigation of Factors Effecting Survival, Prevention, Aging & Nutrition 705
+CARA;Cancer Archives Repository and Analysis Database 705
+NADB;Neurological And Developmental Brain DataBase 705
+GHDB;Global Healthcare Databank 705
+MIDAS;Medical Imaging and Diagnostic Archive System 705
+EMDS;Emergency Medicine Data Storage 705
+RADAR;Radiology Analysis Database for Advanced Research 705
+PHYDAB;Physiological Human Yielding Database 706
+GEMS;Genetic Expression Mapping System 706
+CORDS;Cardiovascular Organ Registry and Diagnostic System 707
+HERBAL;Herbal Medicine Reference Library 708
+CARDS;Cardiovascular Disease Research Database 708
+MINDS;Mental Illness Neuroscience Data System 708
+CANCER;Comprehensive Analysis of Novel Cancer Epidemiology Registry 708
+GENOME;Global Encyclopedia of Nucleotide Organismal Mutation Exploration 708
+IMMUNE;Immunological Monitoring and Molecular Evaluation Database 708
+NEUROPATHY;Neuropathy Electronic Understanding, Research, and Treatment Hub 708
+ONCOLOGY;Oncology Network for Cancer Outcomes Learning & Yearly Analysis 708
+PEDIATRICS;Pediatric Epidemiological Data Interchange Transparent Collaboration System 708
+RESPIRE;Respiratory Health Evaluation and Research Infrastructure Database 709
+TRANSPLANT;Transplant Tracking, Networking & Analysis Platform 710
+CADA;Cancer Archives Database 710
+EMDS;Emergency Medicine Data System 710
+GHID;Global Health Information Database 710
+MIND;Mental Illness Network Database 710
+NDAR;Neurological Disorders Archive Repository 710
+OPHIS;Optometry and Public Health Information System 710
+PADS;Pediatric Allergy Data Storage 710
+RHID;Reproductive Health Information Database 711
+SADR;Substance Abuse Documentation Registry 712
+VDAR;Veterinary Disease Archival Repository 713
+HAD;Health Archives Database 714
+CMD;Chronic Medical Data 715
+MIDB;Medical Information Digital Bank 715
+GHDB;Global Healthcare Databank 715
+PAMD;Patient Analytics & Management Database 715
+LIMD;Life Science Information Management Database 716
+RAD;Research Archives Database 716
+CMDS;Clinical Medicine Data System 716
+MEDB;Medical Evidence Database 716
+GIDA;Global Infectious Disease Archive 716
+MEDS;Medical Electronic Data System 717
+BIOMED;Bioinformatics Medical Database 717
+GENOME;Global Genome Archive 717
+CARDIO;Cardiovascular Research Repository 717
+NEURO;Neurological Information Center 717
+ONCO;Oncology Knowledge Base 717
+PSYCHO;Psychological Data Warehouse 717
+IMMUNE;Immunological Database System 717
+PHARMA;Pharmaceutical Research Archive 717
+EPIDEMIC;Epidemiological Information Center 717
+CARA;Cancer Archives Repository and Analysis Database 717
+NADIA;Neurological Disorders Information Archive 718
+GEMS;Global Epidemiological Monitoring System 718
+PATHWAYS;Personalized Treatment and Healthcare Wayfinding System 718
+GENESIS;Genetic Expression Studies Information System 718
+MEDIKA;Medical Knowledge Accelerator 719
+RADAR;Radiological Analysis Database for Advanced Research 719
+LIFEPATHS;Longitudinal Integrated Framework for Epidemiology and Population Health Surveillance 720
+CARA;Cardiovascular Research Archives 720
+MEDIAN;Medical Data Integration Network 720
+GENOMEX;Genomic Information Exchange System 720
+NEUROBASE;Neurological Disorder Database 720
+PATHOS;Pathology and Health Outcomes Study Repository 720
+EPIDEMIC;Epidemiological Disease Monitoring and Control Center 720
+PHARMOLOGY;Pharmacological Research Library 721
+ONCOLOGIX;Oncology Information Exchange Network 722
+IMMUNOBASE;Immunological Disorder Database 722
+PSYCHEX;Psychiatric Health Evaluation System 722
+MEDIBASE;Medical Information Database System 722
+HEALTHNET;Healthcare Network and Exchange of Data 722
+CARETRACK;Comprehensive Analysis & Research for Epidemiology Tracking 722
+PATIENTPATH;Patient Pathway Analytics Toolkit 722
+MEDICLOUD;Medical Information Cloud Storage System 723
+CLINICALDATA;Clinical Trial Data Management and Archiving Platform 724
+HEALTHSCAN;Healthcare Scanning & Analysis Network 725
+RESEARCHHUB;Research Hub for Collaborative Scientific Endeavors 726
+MEDICONNECT;Medical Information Connectivity System 727
+GLOBALHEALTH;Global Health Database and Analytics Platform 728
+CIDB;Cancer Information Database 728
+MHDB;Mental Health Data Bank 728
+GDA;Global Diabetes Archive 728
+PCDC;Pediatric Cardiology Data Center 728
+HBMD;Human Brain Mapping Database 729
+NADS;Neurological Anomaly Data System 730
+IHDB;Infectious Health Disease Bank 730
+ODMS;Organ Donor Management System 731
+GEHD;Global Epidemiology Health Database 731
+RMDC;Reproductive Medicine Data Center 731
+CMDA;Cancer Medical Data Archive 731
+NDHA;Neurological Disorder Health Archives 732
+GHRA;Global Heart Research Association 732
+IDSA;International Diabetes Study Alliance 733
+MHDA;Mental Health Database Archive 733
+EMAA;Endocrine Metabolic Analysis Association 734
+RDHA;Respiratory Disease Health Archives 735
+GPHA;Global Pediatric Healthcare Association 736
+OMDA;Orthopedic Medical Data Archive 736
+IHRA;International Health Research Alliance 737
+CMDA;Cardiovascular Medical Database Archive 737
+MNDA;Multiple Neurological Disorders Archive 737
+GHRA;Global Health Research Archives 737
+RADA;Reproductive and Adolescent Disease Archive 737
+PEDA;Pediatric Emergency Database Archive 737
+CANDA;Cancer Diagnostics and Analysis Archive 738
+IMDA;Infectious Medical Data Archive 739
+MHDA;Mental Health Documentation Archives 739
+ORDA;Orthopedic Research Data Archive 740
+GIDA;Global Immunology Database Archive 740
+CARA;Cancer Archives Repository and Analysis 740
+NEURONS;Neurological Electronic Universal Research Online Network System 741
+GENOMEX;Genomic Expedition Database 741
+MEDIBASE;Medical Information Base for Enhanced Accessibility 741
+PHARMADATA;Pharmacological Data Archive and Tracking System 741
+MEDIAN;Medical Data Inventory and Analysis Network 741
+HELIX;Healthcare Evidence Library for Information Exchange 741
+CURES;Comprehensive Unified Research Electronic System 742
+PATHOS;Patient Archival Tracking Hub of Symptoms 742
+HEALTHY;Holistic Electronic Access to Lifelong Health Trends and Yearly data 742
+REMEDY;Repository for Epidemiological Medical Evidence Database & Yield 742
+HARMONY;Healthcare Archives Registry for Multidisciplinary Observational Networking in Medicine 742
+HEALS;Holistic Electronic Archive of Lifelong Symptoms and Signs 743
+MEDIUM;Medical Data Integration Utility Matrix 743
+CARES;Comprehensive Advanced Research Environment for Studies 743
+CARDS;Cardiovascular Research Database System 743
+GENE;Genetic Expression Network Explorer 743
+IMMUNO;Immunology Medical Management Unit 743
+NEURO;Neurological Examination and Research Organization 743
+ONCOLOGY;Oncological Observation and Lifelong Care Initiative 743
+PSYCHIATRY;Psychiatric Study Center for Health Improvement 744
+SURGERY;Surgical Unit Rehabilitation & Guidance Enterprise 745
+TRAUMA;Trauma Response Assistance and Medical Understanding Network 746
+VASCULAR;Vascular Disease Analysis and Research System 747
+IMDS;International Medical Data Store 747
+HCDB;Health Care Database 747
+MEDIAN;Medical Information and Analysis Network 747
+CMIA;Centralized Medical Information Archives 748
+GHAD;Global Healthcare Archive Depository 748
+RMID;Regional Medical Information Directory 749
+BMDS;Biomedical Data Storage System 750
+HIMSS;Health Informatics Management Support Services 751
+MEDIAS;Medical Electronic Database for Integrated Analysis and Solutions 751
+GHARP;Global Healthcare Archive Repository Platform 752
+CARA;Cancer Archives Repository and Analysis 752
+MEDIAN;Medical Data Integration & Analytics Network 752
+GEMS;Genomic, Epigenetic, Metabolomics, and Sequencing Database 752
+IMAGO;Images, Manuscripts, Artifacts, Genealogy, and Oral Histories Archive 753
+PANACEA;Pharmacological Agents Network for Clinical Analysis & Evaluation of Adverse Reactions 753
+CARDIOVAS;Cardiovascular Disease Research Vault: Assessment, Statistics, and Visualization 753
+NEUROPATHY;Neurological Disorders Pathology Archive 753
+METABOWATCH;Metabolic Syndrome Observational & Wearable Health Tracking Database 754
+EPIDEMICA;Epidemiological Data Management Information Center and Analytics 754
+PATHOLOGYNET;Comprehensive Pathology Network for Collaborative Research and Education 755
+MCDA;Medical Condition Database Archive 755
+CIDB;Chronic Illness Data Bank 755
+GHAD;Global Health Analytics Database 755
+LDAR;Life Science and Research Database 756
+PNDB;Pharmaceutical Networking Database 756
+HDDT;Human Disease Diagnostic Tool 757
+MEDS;Medical Education Study Database 757
+BIODB;Biological Information Data Bank 758
+RADIS;Radiology Analysis and Diagnostics Information System 759
+GEMDB;Global Epidemiology Monitoring Database 760
+CARMA;Cardiovascular Research Management Archive 760
+MEDIAN;Medical Education Database for Instruction and Analysis Network 760
+CARDS;Cardiovascular Research Database System 760
+GENESIS;Genetic Epidemiology Network of Schizophrenia Information System 760
+PANDA;Pediatric Asthma National Data Archive 760
+GRAVITY;Global Repository for Advanced Vaccine Innovation and Technology Investigations 761
+BIONIC;Biologics Online Information & Navigation Interface Collection 761
+NEUROPATHY;Neurological Disorders Pathology Tracking Hub 761
+PANACEA;Pharmaceutical Analysis Networked Archive for Clinical Efficacy Assessment 761
+CANCER;Comprehensive Analyzed Network of Cancer Evidence & Research 761
+IMMUNOLOGY;Immunological Data Management System 761
+MEDICUS;Medical Education Database for Interdisciplinary Collaboration and Unified Search 761
+CARA;Cancer Archives Repository & Analysis Database 761
+MINDS;Medical Information Networking Database System 761
+GHAN;Global Healthcare Analytics Network Database 762
+SIMBA;Surgery, Imaging, Medicine, Biology, Anatomy Database 762
+PANACEA;Pharmaceutical and Allied Nutritional Compounds Evaluation Archive Database 762
+MEDICUS;Medical Education Databases for Interactive Curriculum Utilization System 762
+CARDIOVAS;Cardiovascular Disease Research & Outcomes Visualization Analysis Study Database 762
+NEUROPATHY;Neurological Pathology and Treatment History Archive Project 762
+PSYCHE;Psychological Health Evaluation, Care, and Education Database System 762
+EPIDEMICA;Epidemiological Data Management & Integrated Collaborative Analysis Database 762
+HCAD;Health Care Analytics Database 762
+CGDB;Cancer Genome Data Bank 763
+GDA;Global Diabetes Archive 763
+NMHID;National Mental Health Information Database 764
+PVHD;Pediatric Vaccine History Database 765
+RCDS;Reproductive Care Data System 766
+EMDC;Emergency Medical Data Center 766
+LDSD;Longitudinal Disease Surveillance Database 767
+GHID;Global Health Information Depository 767
+CADB;Cardiovascular Analysis and Diagnostic Database 767
+MEDIBASE;Medical Database System 767
+CARDNET;Cardiovascular Network Information Base 768
+NEUROPATH;Neurological Pathology Archive 768
+CANCERREG;Cancer Registry Database 769
+IMMUNOTRACK;Immunological Tracking and Analysis Repository 769
+PSYCHDATA;Psychological Data Warehouse 769
+ONCOLOGYDEX;Oncology Index System 770
+ALLERGYWATCH;Allergy Information Watchdog 771
+RESPIRONET;Respiratory Disease Network Database 771
+PHARMACOVIGIL;Pharmacovigilance Monitoring and Reporting System 771
