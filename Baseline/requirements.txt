@@ -1,0 +1,4 @@
+python-terrier
+tqdm
+
+pyterrier_pisa
