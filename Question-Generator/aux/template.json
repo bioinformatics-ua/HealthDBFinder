@@ -1,0 +1,25 @@
+[
+    {
+        "question":"",
+        "concept_set":[],
+        "domains":[],
+        "databases": {
+                acronym:{
+                "position_index": 0,
+                "sum_drc": 0,
+                "sum_rc": 0,
+                "concepts":[
+                    {
+                        "concept_name":"",
+                        "concept:id": 0,
+                        "rc": 0,
+                        "drc": 0
+                    },
+                    #...
+                ]
+            },
+            #...
+        }
+    },
+    #...
+]
